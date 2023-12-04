@@ -1,7 +1,7 @@
 import requests
 import json
 from typing import Dict
-
+import argparse
 
 class CarDataFetcher:
     def __init__(self, base_url, manufacturer, category, year_from, year_to, page_count, headers, cookies):
