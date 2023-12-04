@@ -43,6 +43,11 @@ def main():
     }
     cookies = {
         '_encar_hostname': 'http://www.encar.com',
+        'cto_bundle': '1N4SLF9qdWE1Yk5hY3dicmtjeDZqWnFxcnFjd3BpRmVJSkMlMkZsdkV0azk4ZERYYU9ZdjNSSEtLaWFoTlhJbWwwSnBLVGoyMiUyRnI0NG82SnlHd3RpMG5oVXRxMGx3VXRMJTJCTzdvTkZBczQxVFJiZ1JCU3I1c2R4M1F5RWZ0QUp3WVVXRU1WaTE5N3oyJTJGRzRlbkFMd0NoJTJGcDI4REk3Skt4M2dUaXFpZjJ4ZzZDMkVXeGhRcVUlMkJpeXEwaHlLQUh1NjdFVmcxemtiMU1BcVgxV0k3dnVnJTJGYm5yQUhTWVElM0QlM0Q',
+        'AF_SYNC': '1701652523853',
+        '_ga_BQ7RK9J6BZ': 'GS1.1.1701674727.5.0.1701674727.60.0.0',
+        'JSESSIONID': 'VD4cbokASjVgSa7OPIVh4XHHlDwaXdqpLc8QkMs6ZdLNPeqXnvD81RO09tckTWN3.mono-was2-prod_servlet_encarWeb5',
+        'WMONID': '5bPyRCUPVzy'
     }
 
     raw_data = fetch_car_data(url, headers, cookies)
