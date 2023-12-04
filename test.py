@@ -13,6 +13,22 @@ def save_to_json(data, filename):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
+def load_json(filename):
+    with open(filename, 'r', encoding='utf-8') as file:
+        return json.load(file)
+
+def create_markdown_table(data, md_filename):
+    headers = data[0].keys()
+    md_table = "| " + " | ".join(headers) + " |\n"  # Table header
+    md_table += "| " + " | ".join(["-" * len(h) for h in headers]) + " |\n"  # Separator
+
+    for entry in data:
+        row = "| " + " | ".join(str(entry.get(h, '')) for h in headers) + " |"
+        md_table += row + "\n"
+
+    with open(md_filename, 'w', encoding='utf-8') as file:
+        file.write(md_table)
+
 def main():
     url = 'http://api.encar.com/search/car/list/general?count=true&q=(And.(And.Hidden.N._.(C.CarType.Y._.(C.Manufacturer.%ED%98%84%EB%8C%80._.ModelGroup.%EA%B7%B8%EB%9E%9C%EC%A0%80.)))_.Trust.Warranty.)&sr=%7CExtendWarranty%7C0%7C5'
     headers = {
@@ -47,6 +63,12 @@ def main():
         } for car in raw_data.get('SearchResults', [])]
 
         save_to_json(car_data, 'car_details.json')
+
+        json_filename = 'car_details.json'
+        md_filename = 'car_details.md'
+
+        car_data = load_json(json_filename)
+        create_markdown_table(car_data, md_filename)
 
 if __name__ == "__main__":
     main()
