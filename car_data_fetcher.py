@@ -78,6 +78,7 @@ class CarDataFetcher:
 
             car_data = [{
                 'Manufacturer': car.get('Manufacturer', ''),
+                'Price': car.get('Price', ''),
                 'Model': car.get('Model', ''),
                 'Badge': car.get('Badge', ''),
                 'BadgeDetail': car.get('BadgeDetail', ''),
@@ -86,7 +87,6 @@ class CarDataFetcher:
                 'Year': car.get('Year', ''),
                 'Mileage': car.get('Mileage', ''),
                 'ServiceCopyCar': car.get('ServiceCopyCar', ''),
-                'Price': car.get('Price', ''),
                 'OfficeCityState': car.get('OfficeCityState', '')
             } for car in car_data]
 

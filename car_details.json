@@ -1,6 +1,7 @@
 [
     {
         "Manufacturer": "기아",
+        "Price": 16.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -9,11 +10,11 @@
         "Year": 201805.0,
         "Mileage": 102302.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 16.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 20.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -22,11 +23,11 @@
         "Year": 201905.0,
         "Mileage": 47937.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 20.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 20.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -35,11 +36,11 @@
         "Year": 201906.0,
         "Mileage": 38367.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 20.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 23.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "프레스티지",
@@ -48,11 +49,11 @@
         "Year": 202210.0,
         "Mileage": 9220.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 23.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 23.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "프레스티지",
@@ -61,11 +62,11 @@
         "Year": 202210.0,
         "Mileage": 6836.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 23.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 44.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "프레스티지",
@@ -74,11 +75,11 @@
         "Year": 202210.0,
         "Mileage": 7773.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 44.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 230.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -87,11 +88,11 @@
         "Year": 201402.0,
         "Mileage": 250000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 230.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 280.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -100,11 +101,11 @@
         "Year": 201201.0,
         "Mileage": 180382.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 280.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 305.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -113,11 +114,11 @@
         "Year": 201202.0,
         "Mileage": 179506.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 305.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 319.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -126,11 +127,11 @@
         "Year": 201603.0,
         "Mileage": 267278.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 319.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 320.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -139,11 +140,11 @@
         "Year": 201202.0,
         "Mileage": 204660.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 320.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 320.0,
         "Model": "더 뉴 기아 레이",
         "Badge": "시그니처",
         "BadgeDetail": "",
@@ -152,11 +153,11 @@
         "Year": 202104.0,
         "Mileage": 42500.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 320.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 330.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -165,11 +166,11 @@
         "Year": 201608.0,
         "Mileage": 257149.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 330.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 330.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -178,11 +179,11 @@
         "Year": 201201.0,
         "Mileage": 279800.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 330.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 330.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -191,11 +192,11 @@
         "Year": 201711.0,
         "Mileage": 214229.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 330.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 340.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -204,11 +205,11 @@
         "Year": 201403.0,
         "Mileage": 150310.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 340.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 349.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -217,11 +218,11 @@
         "Year": 201204.0,
         "Mileage": 217582.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 349.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 350.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -230,11 +231,11 @@
         "Year": 201612.0,
         "Mileage": 192771.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 350.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 350.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -243,11 +244,11 @@
         "Year": 201310.0,
         "Mileage": 217393.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 350.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 350.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -256,11 +257,11 @@
         "Year": 201201.0,
         "Mileage": 103831.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 350.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 359.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -269,11 +270,11 @@
         "Year": 201401.0,
         "Mileage": 158676.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 359.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 360.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -282,11 +283,11 @@
         "Year": 201307.0,
         "Mileage": 300128.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 360.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 370.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -295,11 +296,11 @@
         "Year": 201506.0,
         "Mileage": 242283.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 370.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 375.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -308,11 +309,11 @@
         "Year": 201201.0,
         "Mileage": 253252.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 375.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 380.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -321,11 +322,11 @@
         "Year": 201302.0,
         "Mileage": 173480.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 380.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 380.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -334,11 +335,11 @@
         "Year": 201309.0,
         "Mileage": 212000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 380.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 380.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -347,11 +348,11 @@
         "Year": 201403.0,
         "Mileage": 121000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 380.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 389.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -360,11 +361,11 @@
         "Year": 201201.0,
         "Mileage": 193221.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 389.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 390.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -373,11 +374,11 @@
         "Year": 201201.0,
         "Mileage": 174630.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 390.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 390.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -386,11 +387,11 @@
         "Year": 201506.0,
         "Mileage": 147019.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 390.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 390.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -399,11 +400,11 @@
         "Year": 201207.0,
         "Mileage": 123877.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 390.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 390.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -412,11 +413,11 @@
         "Year": 201305.0,
         "Mileage": 170434.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 390.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 390.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -425,11 +426,11 @@
         "Year": 201403.0,
         "Mileage": 175679.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 390.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 399.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -438,11 +439,11 @@
         "Year": 201405.0,
         "Mileage": 125964.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 399.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 399.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -451,11 +452,11 @@
         "Year": 201607.0,
         "Mileage": 197070.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 399.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 399.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -464,11 +465,11 @@
         "Year": 201605.0,
         "Mileage": 158088.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 399.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 399.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -477,11 +478,11 @@
         "Year": 201203.0,
         "Mileage": 231467.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 399.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 399.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -490,11 +491,11 @@
         "Year": 201507.0,
         "Mileage": 179566.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 399.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 399.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -503,11 +504,11 @@
         "Year": 201201.0,
         "Mileage": 177714.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 399.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 400.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -516,11 +517,11 @@
         "Year": 201212.0,
         "Mileage": 195000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 400.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 400.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -529,11 +530,11 @@
         "Year": 201408.0,
         "Mileage": 152691.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 400.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 400.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -542,11 +543,11 @@
         "Year": 201403.0,
         "Mileage": 191357.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 400.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 400.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -555,11 +556,11 @@
         "Year": 201210.0,
         "Mileage": 208676.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 400.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 409.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -568,11 +569,11 @@
         "Year": 201301.0,
         "Mileage": 178468.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 409.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 410.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -581,11 +582,11 @@
         "Year": 201402.0,
         "Mileage": 165182.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 410.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 418.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -594,11 +595,11 @@
         "Year": 201202.0,
         "Mileage": 169290.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 418.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 419.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -607,11 +608,11 @@
         "Year": 201612.0,
         "Mileage": 200001.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 419.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 419.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -620,11 +621,11 @@
         "Year": 201509.0,
         "Mileage": 216550.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 419.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -633,11 +634,11 @@
         "Year": 201209.0,
         "Mileage": 146054.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -646,11 +647,11 @@
         "Year": 201402.0,
         "Mileage": 113046.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -659,11 +660,11 @@
         "Year": 201204.0,
         "Mileage": 146486.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -672,11 +673,11 @@
         "Year": 201407.0,
         "Mileage": 210394.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -685,11 +686,11 @@
         "Year": 201202.0,
         "Mileage": 137914.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -698,11 +699,11 @@
         "Year": 201410.0,
         "Mileage": 156788.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -711,11 +712,11 @@
         "Year": 201403.0,
         "Mileage": 174931.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -724,11 +725,11 @@
         "Year": 201507.0,
         "Mileage": 228545.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -737,11 +738,11 @@
         "Year": 201407.0,
         "Mileage": 177585.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -750,11 +751,11 @@
         "Year": 201210.0,
         "Mileage": 191479.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -763,11 +764,11 @@
         "Year": 201407.0,
         "Mileage": 236092.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -776,11 +777,11 @@
         "Year": 201202.0,
         "Mileage": 223000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "제주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -789,11 +790,11 @@
         "Year": 201604.0,
         "Mileage": 173421.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 420.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -802,11 +803,11 @@
         "Year": 201404.0,
         "Mileage": 182600.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 420.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 425.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -815,11 +816,11 @@
         "Year": 201611.0,
         "Mileage": 159000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 425.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 429.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -828,11 +829,11 @@
         "Year": 201301.0,
         "Mileage": 177000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 429.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 429.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -841,11 +842,11 @@
         "Year": 201409.0,
         "Mileage": 167476.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 429.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -854,11 +855,11 @@
         "Year": 201205.0,
         "Mileage": 138988.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -867,11 +868,11 @@
         "Year": 201209.0,
         "Mileage": 151982.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -880,11 +881,11 @@
         "Year": 201404.0,
         "Mileage": 210071.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -893,11 +894,11 @@
         "Year": 201709.0,
         "Mileage": 221294.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -906,11 +907,11 @@
         "Year": 201201.0,
         "Mileage": 119966.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -919,11 +920,11 @@
         "Year": 201211.0,
         "Mileage": 195321.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -932,11 +933,11 @@
         "Year": 201401.0,
         "Mileage": 121300.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -945,11 +946,11 @@
         "Year": 201311.0,
         "Mileage": 111124.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -958,11 +959,11 @@
         "Year": 201203.0,
         "Mileage": 117851.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -971,11 +972,11 @@
         "Year": 201302.0,
         "Mileage": 230427.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -984,11 +985,11 @@
         "Year": 201301.0,
         "Mileage": 161086.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -997,11 +998,11 @@
         "Year": 201208.0,
         "Mileage": 211672.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 430.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1010,11 +1011,11 @@
         "Year": 201210.0,
         "Mileage": 142020.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 430.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 439.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1023,11 +1024,11 @@
         "Year": 201309.0,
         "Mileage": 189151.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 439.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 440.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1036,11 +1037,11 @@
         "Year": 201208.0,
         "Mileage": 166124.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 440.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 440.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -1049,11 +1050,11 @@
         "Year": 201601.0,
         "Mileage": 185513.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 440.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 440.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -1062,11 +1063,11 @@
         "Year": 201304.0,
         "Mileage": 210000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 440.0,
         "OfficeCityState": "강원"
     },
     {
         "Manufacturer": "기아",
+        "Price": 440.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1075,11 +1076,11 @@
         "Year": 201201.0,
         "Mileage": 155263.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 440.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 440.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1088,11 +1089,11 @@
         "Year": 201410.0,
         "Mileage": 112455.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 440.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 445.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -1101,11 +1102,11 @@
         "Year": 201608.0,
         "Mileage": 171581.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 445.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 449.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1114,11 +1115,11 @@
         "Year": 201403.0,
         "Mileage": 163064.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 449.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 449.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1127,11 +1128,11 @@
         "Year": 201305.0,
         "Mileage": 142368.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 449.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 449.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1140,11 +1141,11 @@
         "Year": 201201.0,
         "Mileage": 173000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 449.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 449.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1153,11 +1154,11 @@
         "Year": 201206.0,
         "Mileage": 93000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 449.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1166,11 +1167,11 @@
         "Year": 201601.0,
         "Mileage": 187038.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1179,11 +1180,11 @@
         "Year": 201501.0,
         "Mileage": 319965.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1192,11 +1193,11 @@
         "Year": 201610.0,
         "Mileage": 183663.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1205,11 +1206,11 @@
         "Year": 201602.0,
         "Mileage": 140000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1218,11 +1219,11 @@
         "Year": 201311.0,
         "Mileage": 186013.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜 바이퓨얼",
         "BadgeDetail": "",
@@ -1231,11 +1232,11 @@
         "Year": 201207.0,
         "Mileage": 199255.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -1244,11 +1245,11 @@
         "Year": 201206.0,
         "Mileage": 147600.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1257,11 +1258,11 @@
         "Year": 201201.0,
         "Mileage": 175421.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1270,11 +1271,11 @@
         "Year": 201202.0,
         "Mileage": 197849.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1283,11 +1284,11 @@
         "Year": 201404.0,
         "Mileage": 195773.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1296,11 +1297,11 @@
         "Year": 201201.0,
         "Mileage": 105420.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -1309,11 +1310,11 @@
         "Year": 201202.0,
         "Mileage": 163352.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1322,11 +1323,11 @@
         "Year": 201206.0,
         "Mileage": 173363.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1335,11 +1336,11 @@
         "Year": 201202.0,
         "Mileage": 218200.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1348,11 +1349,11 @@
         "Year": 201201.0,
         "Mileage": 212675.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -1361,11 +1362,11 @@
         "Year": 201206.0,
         "Mileage": 134289.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1374,11 +1375,11 @@
         "Year": 201203.0,
         "Mileage": 200947.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1387,11 +1388,11 @@
         "Year": 201610.0,
         "Mileage": 176000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1400,11 +1401,11 @@
         "Year": 201203.0,
         "Mileage": 200947.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1413,11 +1414,11 @@
         "Year": 201312.0,
         "Mileage": 129333.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 450.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1426,11 +1427,11 @@
         "Year": 201511.0,
         "Mileage": 215000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 450.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 460.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1439,11 +1440,11 @@
         "Year": 201205.0,
         "Mileage": 189271.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 460.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 460.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1452,11 +1453,11 @@
         "Year": 201207.0,
         "Mileage": 165703.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 460.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 460.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1465,11 +1466,11 @@
         "Year": 201204.0,
         "Mileage": 172700.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 460.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 469.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -1478,11 +1479,11 @@
         "Year": 201907.0,
         "Mileage": 93000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 469.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1491,11 +1492,11 @@
         "Year": 201407.0,
         "Mileage": 152402.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1504,11 +1505,11 @@
         "Year": 201303.0,
         "Mileage": 152237.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1517,11 +1518,11 @@
         "Year": 201205.0,
         "Mileage": 192916.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1530,11 +1531,11 @@
         "Year": 201407.0,
         "Mileage": 143934.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1543,11 +1544,11 @@
         "Year": 201506.0,
         "Mileage": 170641.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1556,11 +1557,11 @@
         "Year": 201604.0,
         "Mileage": 185763.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1569,11 +1570,11 @@
         "Year": 201307.0,
         "Mileage": 122911.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 470.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1582,11 +1583,11 @@
         "Year": 201304.0,
         "Mileage": 179095.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 470.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 479.0,
         "Model": "레이",
         "Badge": "럭셔리 바이퓨얼",
         "BadgeDetail": "",
@@ -1595,11 +1596,11 @@
         "Year": 201204.0,
         "Mileage": 117559.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 479.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 479.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1608,11 +1609,11 @@
         "Year": 201409.0,
         "Mileage": 100000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 479.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 480.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1621,11 +1622,11 @@
         "Year": 201601.0,
         "Mileage": 121929.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 480.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 480.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -1634,11 +1635,11 @@
         "Year": 201401.0,
         "Mileage": 160825.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 480.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 480.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1647,11 +1648,11 @@
         "Year": 201203.0,
         "Mileage": 174286.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 480.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 480.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1660,11 +1661,11 @@
         "Year": 201701.0,
         "Mileage": 168662.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 480.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 489.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1673,11 +1674,11 @@
         "Year": 201305.0,
         "Mileage": 171703.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 489.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 489.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1686,11 +1687,11 @@
         "Year": 201201.0,
         "Mileage": 122000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 489.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1699,11 +1700,11 @@
         "Year": 201201.0,
         "Mileage": 138289.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -1712,11 +1713,11 @@
         "Year": 201701.0,
         "Mileage": 186255.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1725,11 +1726,11 @@
         "Year": 201205.0,
         "Mileage": 167068.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1738,11 +1739,11 @@
         "Year": 201206.0,
         "Mileage": 128267.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1751,11 +1752,11 @@
         "Year": 201405.0,
         "Mileage": 96472.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1764,11 +1765,11 @@
         "Year": 201405.0,
         "Mileage": 144181.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1777,11 +1778,11 @@
         "Year": 201601.0,
         "Mileage": 166459.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1790,11 +1791,11 @@
         "Year": 201201.0,
         "Mileage": 146975.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -1803,11 +1804,11 @@
         "Year": 201504.0,
         "Mileage": 137612.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1816,11 +1817,11 @@
         "Year": 201212.0,
         "Mileage": 168777.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1829,11 +1830,11 @@
         "Year": 201201.0,
         "Mileage": 112730.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1842,11 +1843,11 @@
         "Year": 201504.0,
         "Mileage": 132000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -1855,11 +1856,11 @@
         "Year": 201404.0,
         "Mileage": 264972.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -1868,11 +1869,11 @@
         "Year": 201304.0,
         "Mileage": 143740.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "제주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -1881,11 +1882,11 @@
         "Year": 201203.0,
         "Mileage": 125928.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1894,11 +1895,11 @@
         "Year": 201201.0,
         "Mileage": 172093.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -1907,11 +1908,11 @@
         "Year": 201712.0,
         "Mileage": 154116.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 490.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1920,11 +1921,11 @@
         "Year": 201202.0,
         "Mileage": 95435.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 490.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 495.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -1933,11 +1934,11 @@
         "Year": 201201.0,
         "Mileage": 137710.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 495.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 495.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1946,11 +1947,11 @@
         "Year": 201201.0,
         "Mileage": 132287.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 495.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1959,11 +1960,11 @@
         "Year": 201303.0,
         "Mileage": 159755.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -1972,11 +1973,11 @@
         "Year": 201611.0,
         "Mileage": 197046.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -1985,11 +1986,11 @@
         "Year": 201403.0,
         "Mileage": 135581.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -1998,11 +1999,11 @@
         "Year": 201212.0,
         "Mileage": 119753.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -2011,11 +2012,11 @@
         "Year": 201808.0,
         "Mileage": 177573.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -2024,11 +2025,11 @@
         "Year": 201303.0,
         "Mileage": 76942.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "터보 프레스티지",
         "BadgeDetail": "",
@@ -2037,11 +2038,11 @@
         "Year": 201211.0,
         "Mileage": 176364.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2050,11 +2051,11 @@
         "Year": 201508.0,
         "Mileage": 174224.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2063,11 +2064,11 @@
         "Year": 201508.0,
         "Mileage": 116000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -2076,11 +2077,11 @@
         "Year": 201904.0,
         "Mileage": 220443.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -2089,11 +2090,11 @@
         "Year": 201406.0,
         "Mileage": 101957.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2102,11 +2103,11 @@
         "Year": 201201.0,
         "Mileage": 162000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2115,11 +2116,11 @@
         "Year": 201205.0,
         "Mileage": 136289.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2128,11 +2129,11 @@
         "Year": 201309.0,
         "Mileage": 179961.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 499.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2141,11 +2142,11 @@
         "Year": 201402.0,
         "Mileage": 129593.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 499.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2154,11 +2155,11 @@
         "Year": 201203.0,
         "Mileage": 132450.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -2167,11 +2168,11 @@
         "Year": 201812.0,
         "Mileage": 195646.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2180,11 +2181,11 @@
         "Year": 201512.0,
         "Mileage": 163154.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "럭셔리 바이퓨얼",
         "BadgeDetail": "",
@@ -2193,11 +2194,11 @@
         "Year": 201304.0,
         "Mileage": 208682.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2206,11 +2207,11 @@
         "Year": 201206.0,
         "Mileage": 155690.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2219,11 +2220,11 @@
         "Year": 201502.0,
         "Mileage": 178444.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2232,11 +2233,11 @@
         "Year": 201410.0,
         "Mileage": 140368.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2245,11 +2246,11 @@
         "Year": 201403.0,
         "Mileage": 113572.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2258,11 +2259,11 @@
         "Year": 201204.0,
         "Mileage": 203436.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 500.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -2271,11 +2272,11 @@
         "Year": 201306.0,
         "Mileage": 203462.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 500.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 509.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2284,11 +2285,11 @@
         "Year": 201211.0,
         "Mileage": 81515.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 509.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 509.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2297,11 +2298,11 @@
         "Year": 201202.0,
         "Mileage": 66113.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 509.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 510.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2310,11 +2311,11 @@
         "Year": 201210.0,
         "Mileage": 156000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 510.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 510.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2323,11 +2324,11 @@
         "Year": 201204.0,
         "Mileage": 164755.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 510.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 510.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2336,11 +2337,11 @@
         "Year": 201201.0,
         "Mileage": 157413.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 510.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2349,11 +2350,11 @@
         "Year": 201402.0,
         "Mileage": 97586.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -2362,11 +2363,11 @@
         "Year": 201304.0,
         "Mileage": 131525.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -2375,11 +2376,11 @@
         "Year": 201304.0,
         "Mileage": 175750.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2388,11 +2389,11 @@
         "Year": 201606.0,
         "Mileage": 77307.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -2401,11 +2402,11 @@
         "Year": 201202.0,
         "Mileage": 66972.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2414,11 +2415,11 @@
         "Year": 201510.0,
         "Mileage": 97530.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -2427,11 +2428,11 @@
         "Year": 201301.0,
         "Mileage": 92000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2440,11 +2441,11 @@
         "Year": 201408.0,
         "Mileage": 123400.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2453,11 +2454,11 @@
         "Year": 201511.0,
         "Mileage": 130739.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2466,11 +2467,11 @@
         "Year": 201607.0,
         "Mileage": 131874.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2479,11 +2480,11 @@
         "Year": 201301.0,
         "Mileage": 150727.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2492,11 +2493,11 @@
         "Year": 201202.0,
         "Mileage": 188674.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2505,11 +2506,11 @@
         "Year": 201511.0,
         "Mileage": 139481.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -2518,11 +2519,11 @@
         "Year": 201209.0,
         "Mileage": 101247.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 520.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -2531,11 +2532,11 @@
         "Year": 201301.0,
         "Mileage": 111667.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 520.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 525.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2544,11 +2545,11 @@
         "Year": 201402.0,
         "Mileage": 113053.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 525.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 529.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2557,11 +2558,11 @@
         "Year": 201303.0,
         "Mileage": 194116.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 529.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 529.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2570,11 +2571,11 @@
         "Year": 201407.0,
         "Mileage": 173500.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 529.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 529.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2583,11 +2584,11 @@
         "Year": 201212.0,
         "Mileage": 186606.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 529.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2596,11 +2597,11 @@
         "Year": 201303.0,
         "Mileage": 109686.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2609,11 +2610,11 @@
         "Year": 201508.0,
         "Mileage": 154734.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2622,11 +2623,11 @@
         "Year": 201401.0,
         "Mileage": 166390.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2635,11 +2636,11 @@
         "Year": 201406.0,
         "Mileage": 137900.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2648,11 +2649,11 @@
         "Year": 201410.0,
         "Mileage": 113481.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -2661,11 +2662,11 @@
         "Year": 201810.0,
         "Mileage": 190000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2674,11 +2675,11 @@
         "Year": 201305.0,
         "Mileage": 164197.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2687,11 +2688,11 @@
         "Year": 201208.0,
         "Mileage": 164347.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2700,11 +2701,11 @@
         "Year": 201211.0,
         "Mileage": 181700.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2713,11 +2714,11 @@
         "Year": 201704.0,
         "Mileage": 165251.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -2726,11 +2727,11 @@
         "Year": 201506.0,
         "Mileage": 164000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2739,11 +2740,11 @@
         "Year": 201303.0,
         "Mileage": 169310.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -2752,11 +2753,11 @@
         "Year": 201303.0,
         "Mileage": 128490.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -2765,11 +2766,11 @@
         "Year": 201909.0,
         "Mileage": 212198.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2778,11 +2779,11 @@
         "Year": 201202.0,
         "Mileage": 142137.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2791,11 +2792,11 @@
         "Year": 201309.0,
         "Mileage": 78000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2804,11 +2805,11 @@
         "Year": 201603.0,
         "Mileage": 135407.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2817,11 +2818,11 @@
         "Year": 201202.0,
         "Mileage": 172171.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 530.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -2830,11 +2831,11 @@
         "Year": 201702.0,
         "Mileage": 48518.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 530.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 533.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2843,11 +2844,11 @@
         "Year": 201303.0,
         "Mileage": 77000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 533.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 535.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2856,11 +2857,11 @@
         "Year": 201510.0,
         "Mileage": 127500.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 535.0,
         "OfficeCityState": "전남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 539.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2869,11 +2870,11 @@
         "Year": 201202.0,
         "Mileage": 123219.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 539.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 539.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -2882,11 +2883,11 @@
         "Year": 201904.0,
         "Mileage": 184458.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 539.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 539.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -2895,11 +2896,11 @@
         "Year": 201508.0,
         "Mileage": 99929.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 539.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -2908,11 +2909,11 @@
         "Year": 201503.0,
         "Mileage": 177637.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 540.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -2921,11 +2922,11 @@
         "Year": 201306.0,
         "Mileage": 148130.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 540.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "프레스티지",
@@ -2934,11 +2935,11 @@
         "Year": 202012.0,
         "Mileage": 192075.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 540.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2947,11 +2948,11 @@
         "Year": 201506.0,
         "Mileage": 157687.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 540.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2960,11 +2961,11 @@
         "Year": 201505.0,
         "Mileage": 106275.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 540.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -2973,11 +2974,11 @@
         "Year": 201301.0,
         "Mileage": 158260.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 540.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2986,11 +2987,11 @@
         "Year": 201505.0,
         "Mileage": 106275.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 540.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 540.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -2999,11 +3000,11 @@
         "Year": 201406.0,
         "Mileage": 127700.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 540.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 549.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -3012,11 +3013,11 @@
         "Year": 201612.0,
         "Mileage": 112346.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 549.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 549.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3025,11 +3026,11 @@
         "Year": 201209.0,
         "Mileage": 142871.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 549.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 549.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3038,11 +3039,11 @@
         "Year": 201409.0,
         "Mileage": 106310.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 549.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 549.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -3051,11 +3052,11 @@
         "Year": 201612.0,
         "Mileage": 112346.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 549.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3064,11 +3065,11 @@
         "Year": 201205.0,
         "Mileage": 126791.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -3077,11 +3078,11 @@
         "Year": 201604.0,
         "Mileage": 216078.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3090,11 +3091,11 @@
         "Year": 201404.0,
         "Mileage": 129256.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3103,11 +3104,11 @@
         "Year": 201310.0,
         "Mileage": 58775.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -3116,11 +3117,11 @@
         "Year": 201305.0,
         "Mileage": 119516.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3129,11 +3130,11 @@
         "Year": 201301.0,
         "Mileage": 115908.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3142,11 +3143,11 @@
         "Year": 201204.0,
         "Mileage": 158023.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3155,11 +3156,11 @@
         "Year": 201209.0,
         "Mileage": 127752.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3168,11 +3169,11 @@
         "Year": 201203.0,
         "Mileage": 202266.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3181,11 +3182,11 @@
         "Year": 201604.0,
         "Mileage": 145659.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3194,11 +3195,11 @@
         "Year": 201512.0,
         "Mileage": 120160.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3207,11 +3208,11 @@
         "Year": 201207.0,
         "Mileage": 99080.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3220,11 +3221,11 @@
         "Year": 201304.0,
         "Mileage": 127125.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3233,11 +3234,11 @@
         "Year": 201205.0,
         "Mileage": 117928.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3246,11 +3247,11 @@
         "Year": 201506.0,
         "Mileage": 136700.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3259,11 +3260,11 @@
         "Year": 201201.0,
         "Mileage": 182670.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3272,11 +3273,11 @@
         "Year": 201606.0,
         "Mileage": 146422.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3285,11 +3286,11 @@
         "Year": 201209.0,
         "Mileage": 164779.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3298,11 +3299,11 @@
         "Year": 201406.0,
         "Mileage": 128375.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3311,11 +3312,11 @@
         "Year": 201612.0,
         "Mileage": 101000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3324,11 +3325,11 @@
         "Year": 201606.0,
         "Mileage": 117208.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3337,11 +3338,11 @@
         "Year": 201201.0,
         "Mileage": 193000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "제주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3350,11 +3351,11 @@
         "Year": 201508.0,
         "Mileage": 127082.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -3363,11 +3364,11 @@
         "Year": 201206.0,
         "Mileage": 122399.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3376,11 +3377,11 @@
         "Year": 201206.0,
         "Mileage": 106263.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3389,11 +3390,11 @@
         "Year": 201301.0,
         "Mileage": 32837.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3402,11 +3403,11 @@
         "Year": 201207.0,
         "Mileage": 130463.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3415,11 +3416,11 @@
         "Year": 201201.0,
         "Mileage": 136612.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3428,11 +3429,11 @@
         "Year": 201202.0,
         "Mileage": 139900.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3441,11 +3442,11 @@
         "Year": 201112.0,
         "Mileage": 93789.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -3454,11 +3455,11 @@
         "Year": 201808.0,
         "Mileage": 98063.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3467,11 +3468,11 @@
         "Year": 201206.0,
         "Mileage": 136055.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -3480,11 +3481,11 @@
         "Year": 201507.0,
         "Mileage": 280000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3493,11 +3494,11 @@
         "Year": 201606.0,
         "Mileage": 117208.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 550.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3506,11 +3507,11 @@
         "Year": 201603.0,
         "Mileage": 142270.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3519,11 +3520,11 @@
         "Year": 201403.0,
         "Mileage": 159454.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -3532,11 +3533,11 @@
         "Year": 201211.0,
         "Mileage": 73181.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3545,11 +3546,11 @@
         "Year": 201304.0,
         "Mileage": 127439.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 550.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -3558,11 +3559,11 @@
         "Year": 201401.0,
         "Mileage": 90003.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 550.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 554.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3571,11 +3572,11 @@
         "Year": 201404.0,
         "Mileage": 166504.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 554.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 555.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3584,11 +3585,11 @@
         "Year": 201303.0,
         "Mileage": 134665.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 555.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 555.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3597,11 +3598,11 @@
         "Year": 201406.0,
         "Mileage": 185058.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 555.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 555.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3610,11 +3611,11 @@
         "Year": 201202.0,
         "Mileage": 105416.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 555.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 559.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3623,11 +3624,11 @@
         "Year": 201402.0,
         "Mileage": 115240.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 559.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 559.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -3636,11 +3637,11 @@
         "Year": 201804.0,
         "Mileage": 161194.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 559.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 559.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3649,11 +3650,11 @@
         "Year": 201205.0,
         "Mileage": 146000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 559.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 559.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3662,11 +3663,11 @@
         "Year": 201403.0,
         "Mileage": 110000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 559.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 559.0,
         "Model": "레이",
         "Badge": "터보",
         "BadgeDetail": "",
@@ -3675,11 +3676,11 @@
         "Year": 201211.0,
         "Mileage": 129000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 559.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3688,11 +3689,11 @@
         "Year": 201311.0,
         "Mileage": 144894.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3701,11 +3702,11 @@
         "Year": 201510.0,
         "Mileage": 136175.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -3714,11 +3715,11 @@
         "Year": 201705.0,
         "Mileage": 188100.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3727,11 +3728,11 @@
         "Year": 201406.0,
         "Mileage": 95582.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3740,11 +3741,11 @@
         "Year": 201208.0,
         "Mileage": 115000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3753,11 +3754,11 @@
         "Year": 201202.0,
         "Mileage": 141069.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3766,11 +3767,11 @@
         "Year": 201502.0,
         "Mileage": 151000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -3779,11 +3780,11 @@
         "Year": 201812.0,
         "Mileage": 156233.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3792,11 +3793,11 @@
         "Year": 201311.0,
         "Mileage": 102177.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3805,11 +3806,11 @@
         "Year": 201201.0,
         "Mileage": 94979.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3818,11 +3819,11 @@
         "Year": 201712.0,
         "Mileage": 241247.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3831,11 +3832,11 @@
         "Year": 201206.0,
         "Mileage": 85775.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 560.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3844,11 +3845,11 @@
         "Year": 201212.0,
         "Mileage": 115800.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 560.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 568.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -3857,11 +3858,11 @@
         "Year": 201403.0,
         "Mileage": 118776.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 568.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 569.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -3870,11 +3871,11 @@
         "Year": 201204.0,
         "Mileage": 139727.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 569.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 569.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -3883,11 +3884,11 @@
         "Year": 201210.0,
         "Mileage": 161939.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 569.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 569.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3896,11 +3897,11 @@
         "Year": 201402.0,
         "Mileage": 157637.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 569.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -3909,11 +3910,11 @@
         "Year": 201404.0,
         "Mileage": 217860.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -3922,11 +3923,11 @@
         "Year": 201711.0,
         "Mileage": 115982.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -3935,11 +3936,11 @@
         "Year": 201212.0,
         "Mileage": 190000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "터보",
         "BadgeDetail": "",
@@ -3948,11 +3949,11 @@
         "Year": 201301.0,
         "Mileage": 130969.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -3961,11 +3962,11 @@
         "Year": 201403.0,
         "Mileage": 110584.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -3974,11 +3975,11 @@
         "Year": 201505.0,
         "Mileage": 127495.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -3987,11 +3988,11 @@
         "Year": 201306.0,
         "Mileage": 98660.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4000,11 +4001,11 @@
         "Year": 201212.0,
         "Mileage": 105616.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4013,11 +4014,11 @@
         "Year": 201212.0,
         "Mileage": 198303.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4026,11 +4027,11 @@
         "Year": 201306.0,
         "Mileage": 106446.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -4039,11 +4040,11 @@
         "Year": 201302.0,
         "Mileage": 168428.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4052,11 +4053,11 @@
         "Year": 201506.0,
         "Mileage": 119513.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -4065,11 +4066,11 @@
         "Year": 201804.0,
         "Mileage": 164443.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4078,11 +4079,11 @@
         "Year": 201203.0,
         "Mileage": 114658.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4091,11 +4092,11 @@
         "Year": 201404.0,
         "Mileage": 194899.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4104,11 +4105,11 @@
         "Year": 201410.0,
         "Mileage": 108240.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 570.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4117,11 +4118,11 @@
         "Year": 201209.0,
         "Mileage": 168247.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 570.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 575.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -4130,11 +4131,11 @@
         "Year": 201306.0,
         "Mileage": 115258.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 575.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 577.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4143,11 +4144,11 @@
         "Year": 201205.0,
         "Mileage": 178855.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 577.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 579.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4156,11 +4157,11 @@
         "Year": 201201.0,
         "Mileage": 33144.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 579.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 579.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -4169,11 +4170,11 @@
         "Year": 201804.0,
         "Mileage": 161249.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 579.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 579.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -4182,11 +4183,11 @@
         "Year": 201804.0,
         "Mileage": 162874.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 579.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 579.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -4195,11 +4196,11 @@
         "Year": 201903.0,
         "Mileage": 154629.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 579.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -4208,11 +4209,11 @@
         "Year": 201712.0,
         "Mileage": 128853.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "럭셔리",
@@ -4221,11 +4222,11 @@
         "Year": 201903.0,
         "Mileage": 150000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4234,11 +4235,11 @@
         "Year": 201201.0,
         "Mileage": 120898.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4247,11 +4248,11 @@
         "Year": 201509.0,
         "Mileage": 61555.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4260,11 +4261,11 @@
         "Year": 201311.0,
         "Mileage": 83865.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4273,11 +4274,11 @@
         "Year": 201403.0,
         "Mileage": 85565.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -4286,11 +4287,11 @@
         "Year": 201712.0,
         "Mileage": 62668.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4299,11 +4300,11 @@
         "Year": 201607.0,
         "Mileage": 119536.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4312,11 +4313,11 @@
         "Year": 201206.0,
         "Mileage": 122008.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4325,11 +4326,11 @@
         "Year": 201509.0,
         "Mileage": 61555.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 580.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4338,11 +4339,11 @@
         "Year": 201411.0,
         "Mileage": 143089.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4351,11 +4352,11 @@
         "Year": 201204.0,
         "Mileage": 149184.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -4364,11 +4365,11 @@
         "Year": 201903.0,
         "Mileage": 135720.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -4377,11 +4378,11 @@
         "Year": 201712.0,
         "Mileage": 128853.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 580.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4390,11 +4391,11 @@
         "Year": 201506.0,
         "Mileage": 97572.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4403,11 +4404,11 @@
         "Year": 201204.0,
         "Mileage": 110622.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "럭셔리 바이퓨얼",
         "BadgeDetail": "",
@@ -4416,11 +4417,11 @@
         "Year": 201212.0,
         "Mileage": 178288.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -4429,11 +4430,11 @@
         "Year": 201804.0,
         "Mileage": 158590.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -4442,11 +4443,11 @@
         "Year": 201905.0,
         "Mileage": 162024.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4455,11 +4456,11 @@
         "Year": 201205.0,
         "Mileage": 93964.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -4468,11 +4469,11 @@
         "Year": 201907.0,
         "Mileage": 130000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 580.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4481,11 +4482,11 @@
         "Year": 201609.0,
         "Mileage": 110317.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 580.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 587.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4494,11 +4495,11 @@
         "Year": 201602.0,
         "Mileage": 129210.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 587.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 589.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -4507,11 +4508,11 @@
         "Year": 201906.0,
         "Mileage": 117000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 589.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4520,11 +4521,11 @@
         "Year": 201402.0,
         "Mileage": 87525.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4533,11 +4534,11 @@
         "Year": 201201.0,
         "Mileage": 121468.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -4546,11 +4547,11 @@
         "Year": 201412.0,
         "Mileage": 45138.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4559,11 +4560,11 @@
         "Year": 201708.0,
         "Mileage": 149166.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -4572,11 +4573,11 @@
         "Year": 201306.0,
         "Mileage": 95000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4585,11 +4586,11 @@
         "Year": 201406.0,
         "Mileage": 162328.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -4598,11 +4599,11 @@
         "Year": 201307.0,
         "Mileage": 128465.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4611,11 +4612,11 @@
         "Year": 201211.0,
         "Mileage": 112577.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4624,11 +4625,11 @@
         "Year": 201507.0,
         "Mileage": 137000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4637,11 +4638,11 @@
         "Year": 201206.0,
         "Mileage": 106000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4650,11 +4651,11 @@
         "Year": 201203.0,
         "Mileage": 147500.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4663,11 +4664,11 @@
         "Year": 201601.0,
         "Mileage": 119000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "전남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4676,11 +4677,11 @@
         "Year": 201201.0,
         "Mileage": 138932.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4689,11 +4690,11 @@
         "Year": 201509.0,
         "Mileage": 91659.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4702,11 +4703,11 @@
         "Year": 201409.0,
         "Mileage": 157976.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4715,11 +4716,11 @@
         "Year": 201510.0,
         "Mileage": 108149.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4728,11 +4729,11 @@
         "Year": 201503.0,
         "Mileage": 131825.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4741,11 +4742,11 @@
         "Year": 201505.0,
         "Mileage": 42113.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -4754,11 +4755,11 @@
         "Year": 201211.0,
         "Mileage": 59345.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4767,11 +4768,11 @@
         "Year": 201608.0,
         "Mileage": 99428.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4780,11 +4781,11 @@
         "Year": 201202.0,
         "Mileage": 160921.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4793,11 +4794,11 @@
         "Year": 201308.0,
         "Mileage": 171158.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -4806,11 +4807,11 @@
         "Year": 201212.0,
         "Mileage": 103000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4819,11 +4820,11 @@
         "Year": 201708.0,
         "Mileage": 105375.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -4832,11 +4833,11 @@
         "Year": 201201.0,
         "Mileage": 156206.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4845,11 +4846,11 @@
         "Year": 201201.0,
         "Mileage": 90000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -4858,11 +4859,11 @@
         "Year": 201201.0,
         "Mileage": 154410.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4871,11 +4872,11 @@
         "Year": 201612.0,
         "Mileage": 140003.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4884,11 +4885,11 @@
         "Year": 201307.0,
         "Mileage": 121932.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4897,11 +4898,11 @@
         "Year": 201205.0,
         "Mileage": 125000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -4910,11 +4911,11 @@
         "Year": 201711.0,
         "Mileage": 24000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -4923,11 +4924,11 @@
         "Year": 201711.0,
         "Mileage": 120630.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4936,11 +4937,11 @@
         "Year": 201412.0,
         "Mileage": 127886.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -4949,11 +4950,11 @@
         "Year": 201401.0,
         "Mileage": 154746.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -4962,11 +4963,11 @@
         "Year": 201403.0,
         "Mileage": 184659.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -4975,11 +4976,11 @@
         "Year": 201909.0,
         "Mileage": 111392.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -4988,11 +4989,11 @@
         "Year": 201711.0,
         "Mileage": 120630.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 590.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 590.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -5001,11 +5002,11 @@
         "Year": 201602.0,
         "Mileage": 108000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 590.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 595.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5014,11 +5015,11 @@
         "Year": 201404.0,
         "Mileage": 154881.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 595.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 595.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5027,11 +5028,11 @@
         "Year": 201306.0,
         "Mileage": 117000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 595.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 595.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -5040,11 +5041,11 @@
         "Year": 201203.0,
         "Mileage": 122342.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 595.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 598.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5053,11 +5054,11 @@
         "Year": 201904.0,
         "Mileage": 150229.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 598.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -5066,11 +5067,11 @@
         "Year": 201201.0,
         "Mileage": 82991.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -5079,11 +5080,11 @@
         "Year": 201512.0,
         "Mileage": 117714.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -5092,11 +5093,11 @@
         "Year": 201606.0,
         "Mileage": 40000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5105,11 +5106,11 @@
         "Year": 201909.0,
         "Mileage": 153548.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5118,11 +5119,11 @@
         "Year": 201205.0,
         "Mileage": 145333.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "터보 럭셔리",
         "BadgeDetail": "",
@@ -5131,11 +5132,11 @@
         "Year": 201503.0,
         "Mileage": 129677.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5144,11 +5145,11 @@
         "Year": 201907.0,
         "Mileage": 139787.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5157,11 +5158,11 @@
         "Year": 201204.0,
         "Mileage": 122504.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5170,11 +5171,11 @@
         "Year": 201508.0,
         "Mileage": 132206.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5183,11 +5184,11 @@
         "Year": 201506.0,
         "Mileage": 177663.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "터보 프레스티지",
         "BadgeDetail": "",
@@ -5196,11 +5197,11 @@
         "Year": 201311.0,
         "Mileage": 136000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -5209,11 +5210,11 @@
         "Year": 201303.0,
         "Mileage": 133499.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5222,11 +5223,11 @@
         "Year": 201906.0,
         "Mileage": 72000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5235,11 +5236,11 @@
         "Year": 201206.0,
         "Mileage": 142031.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5248,11 +5249,11 @@
         "Year": 201508.0,
         "Mileage": 132206.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5261,11 +5262,11 @@
         "Year": 201506.0,
         "Mileage": 130447.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "터보 프레스티지",
         "BadgeDetail": "",
@@ -5274,11 +5275,11 @@
         "Year": 201405.0,
         "Mileage": 187000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -5287,11 +5288,11 @@
         "Year": 201812.0,
         "Mileage": 127586.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5300,11 +5301,11 @@
         "Year": 201503.0,
         "Mileage": 197630.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "터보 프레스티지",
         "BadgeDetail": "",
@@ -5313,11 +5314,11 @@
         "Year": 201312.0,
         "Mileage": 137338.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -5326,11 +5327,11 @@
         "Year": 201703.0,
         "Mileage": 145756.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "터보 프레스티지",
         "BadgeDetail": "",
@@ -5339,11 +5340,11 @@
         "Year": 201512.0,
         "Mileage": 154261.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5352,11 +5353,11 @@
         "Year": 201206.0,
         "Mileage": 75108.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -5365,11 +5366,11 @@
         "Year": 201210.0,
         "Mileage": 75041.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5378,11 +5379,11 @@
         "Year": 201905.0,
         "Mileage": 85530.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -5391,11 +5392,11 @@
         "Year": 201905.0,
         "Mileage": 104149.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 599.0,
         "Model": "레이",
         "Badge": "터보",
         "BadgeDetail": "",
@@ -5404,11 +5405,11 @@
         "Year": 201301.0,
         "Mileage": 151614.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 599.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5417,11 +5418,11 @@
         "Year": 201204.0,
         "Mileage": 99300.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -5430,11 +5431,11 @@
         "Year": 201612.0,
         "Mileage": 95388.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 600.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -5443,11 +5444,11 @@
         "Year": 201607.0,
         "Mileage": 121219.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -5456,11 +5457,11 @@
         "Year": 201402.0,
         "Mileage": 81124.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -5469,11 +5470,11 @@
         "Year": 201612.0,
         "Mileage": 95388.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5482,11 +5483,11 @@
         "Year": 201305.0,
         "Mileage": 95223.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5495,11 +5496,11 @@
         "Year": 201207.0,
         "Mileage": 113483.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -5508,11 +5509,11 @@
         "Year": 201711.0,
         "Mileage": 72445.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 600.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5521,11 +5522,11 @@
         "Year": 201206.0,
         "Mileage": 137226.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 600.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 609.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5534,11 +5535,11 @@
         "Year": 201202.0,
         "Mileage": 149188.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 609.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 610.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5547,11 +5548,11 @@
         "Year": 201609.0,
         "Mileage": 84592.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 610.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 610.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5560,11 +5561,11 @@
         "Year": 201307.0,
         "Mileage": 121753.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 610.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 610.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5573,11 +5574,11 @@
         "Year": 201311.0,
         "Mileage": 147600.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 610.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 610.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5586,11 +5587,11 @@
         "Year": 201201.0,
         "Mileage": 150269.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 610.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 614.0,
         "Model": "더 뉴 레이",
         "Badge": "스탠다드",
         "BadgeDetail": "",
@@ -5599,11 +5600,11 @@
         "Year": 202104.0,
         "Mileage": 41000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 614.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 619.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5612,11 +5613,11 @@
         "Year": 201603.0,
         "Mileage": 174095.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 619.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 619.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5625,11 +5626,11 @@
         "Year": 201803.0,
         "Mileage": 113538.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 619.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 619.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5638,11 +5639,11 @@
         "Year": 201809.0,
         "Mileage": 92621.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 619.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -5651,11 +5652,11 @@
         "Year": 201607.0,
         "Mileage": 99539.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5664,11 +5665,11 @@
         "Year": 201804.0,
         "Mileage": 121045.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5677,11 +5678,11 @@
         "Year": 201909.0,
         "Mileage": 110787.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5690,11 +5691,11 @@
         "Year": 201305.0,
         "Mileage": 149605.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -5703,11 +5704,11 @@
         "Year": 201909.0,
         "Mileage": 101016.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -5716,11 +5717,11 @@
         "Year": 201311.0,
         "Mileage": 65713.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -5729,11 +5730,11 @@
         "Year": 201909.0,
         "Mileage": 75534.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5742,11 +5743,11 @@
         "Year": 201207.0,
         "Mileage": 95000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5755,11 +5756,11 @@
         "Year": 201201.0,
         "Mileage": 91799.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -5768,11 +5769,11 @@
         "Year": 201507.0,
         "Mileage": 113030.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -5781,11 +5782,11 @@
         "Year": 201309.0,
         "Mileage": 90206.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -5794,11 +5795,11 @@
         "Year": 201206.0,
         "Mileage": 132914.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -5807,11 +5808,11 @@
         "Year": 201606.0,
         "Mileage": 114232.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -5820,11 +5821,11 @@
         "Year": 201401.0,
         "Mileage": 159000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5833,11 +5834,11 @@
         "Year": 201905.0,
         "Mileage": 92585.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -5846,11 +5847,11 @@
         "Year": 201202.0,
         "Mileage": 86274.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 620.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5859,11 +5860,11 @@
         "Year": 201205.0,
         "Mileage": 122354.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 620.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 625.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5872,11 +5873,11 @@
         "Year": 201905.0,
         "Mileage": 92578.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 625.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 629.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5885,11 +5886,11 @@
         "Year": 201502.0,
         "Mileage": 178068.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 629.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 629.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -5898,11 +5899,11 @@
         "Year": 201207.0,
         "Mileage": 156839.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 629.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 629.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5911,11 +5912,11 @@
         "Year": 201904.0,
         "Mileage": 127746.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 629.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5924,11 +5925,11 @@
         "Year": 201812.0,
         "Mileage": 146500.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "강원"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -5937,11 +5938,11 @@
         "Year": 201305.0,
         "Mileage": 137723.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5950,11 +5951,11 @@
         "Year": 201903.0,
         "Mileage": 129013.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -5963,11 +5964,11 @@
         "Year": 201506.0,
         "Mileage": 99572.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -5976,11 +5977,11 @@
         "Year": 201308.0,
         "Mileage": 119013.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -5989,11 +5990,11 @@
         "Year": 201907.0,
         "Mileage": 45688.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6002,11 +6003,11 @@
         "Year": 201301.0,
         "Mileage": 103575.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6015,11 +6016,11 @@
         "Year": 201709.0,
         "Mileage": 126256.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6028,11 +6029,11 @@
         "Year": 201203.0,
         "Mileage": 110785.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6041,11 +6042,11 @@
         "Year": 201307.0,
         "Mileage": 107097.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6054,11 +6055,11 @@
         "Year": 201201.0,
         "Mileage": 158044.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6067,11 +6068,11 @@
         "Year": 201210.0,
         "Mileage": 63910.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6080,11 +6081,11 @@
         "Year": 201204.0,
         "Mileage": 68386.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6093,11 +6094,11 @@
         "Year": 201201.0,
         "Mileage": 158787.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6106,11 +6107,11 @@
         "Year": 201803.0,
         "Mileage": 121000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6119,11 +6120,11 @@
         "Year": 201205.0,
         "Mileage": 110197.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6132,11 +6133,11 @@
         "Year": 201407.0,
         "Mileage": 82435.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6145,11 +6146,11 @@
         "Year": 201403.0,
         "Mileage": 151106.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6158,11 +6159,11 @@
         "Year": 201404.0,
         "Mileage": 108376.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -6171,11 +6172,11 @@
         "Year": 201506.0,
         "Mileage": 42605.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6184,11 +6185,11 @@
         "Year": 201408.0,
         "Mileage": 78731.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "터보",
         "BadgeDetail": "",
@@ -6197,11 +6198,11 @@
         "Year": 201211.0,
         "Mileage": 131000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6210,11 +6211,11 @@
         "Year": 201309.0,
         "Mileage": 118049.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6223,11 +6224,11 @@
         "Year": 201203.0,
         "Mileage": 138184.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6236,11 +6237,11 @@
         "Year": 201203.0,
         "Mileage": 107453.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6249,11 +6250,11 @@
         "Year": 201607.0,
         "Mileage": 127331.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 630.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -6262,11 +6263,11 @@
         "Year": 201505.0,
         "Mileage": 61000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 630.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 635.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6275,11 +6276,11 @@
         "Year": 201906.0,
         "Mileage": 108373.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 635.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 635.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -6288,11 +6289,11 @@
         "Year": 201806.0,
         "Mileage": 75239.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 635.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 639.0,
         "Model": "더 뉴 레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6301,11 +6302,11 @@
         "Year": 201904.0,
         "Mileage": 122202.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 639.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 639.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6314,11 +6315,11 @@
         "Year": 201303.0,
         "Mileage": 82551.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 639.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 639.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6327,11 +6328,11 @@
         "Year": 201303.0,
         "Mileage": 82560.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 639.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 639.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6340,11 +6341,11 @@
         "Year": 201203.0,
         "Mileage": 90689.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 639.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 639.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "럭셔리",
@@ -6353,11 +6354,11 @@
         "Year": 201912.0,
         "Mileage": 144986.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 639.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 639.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6366,11 +6367,11 @@
         "Year": 201502.0,
         "Mileage": 128255.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 639.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6379,11 +6380,11 @@
         "Year": 201206.0,
         "Mileage": 131939.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -6392,11 +6393,11 @@
         "Year": 201712.0,
         "Mileage": 77167.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6405,11 +6406,11 @@
         "Year": 201407.0,
         "Mileage": 152989.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6418,11 +6419,11 @@
         "Year": 201708.0,
         "Mileage": 140924.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "프레스티지 바이퓨얼",
         "BadgeDetail": "",
@@ -6431,11 +6432,11 @@
         "Year": 201403.0,
         "Mileage": 173000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -6444,11 +6445,11 @@
         "Year": 201905.0,
         "Mileage": 90618.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -6457,11 +6458,11 @@
         "Year": 201711.0,
         "Mileage": 85802.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -6470,11 +6471,11 @@
         "Year": 201712.0,
         "Mileage": 62206.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6483,11 +6484,11 @@
         "Year": 201207.0,
         "Mileage": 135228.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6496,11 +6497,11 @@
         "Year": 201603.0,
         "Mileage": 61108.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6509,11 +6510,11 @@
         "Year": 201903.0,
         "Mileage": 94232.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6522,11 +6523,11 @@
         "Year": 201302.0,
         "Mileage": 145259.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6535,11 +6536,11 @@
         "Year": 201907.0,
         "Mileage": 97269.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6548,11 +6549,11 @@
         "Year": 201804.0,
         "Mileage": 138390.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6561,11 +6562,11 @@
         "Year": 201412.0,
         "Mileage": 97025.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6574,11 +6575,11 @@
         "Year": 201204.0,
         "Mileage": 81697.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6587,11 +6588,11 @@
         "Year": 201203.0,
         "Mileage": 136195.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6600,11 +6601,11 @@
         "Year": 201506.0,
         "Mileage": 74000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "제주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6613,11 +6614,11 @@
         "Year": 201308.0,
         "Mileage": 110931.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6626,11 +6627,11 @@
         "Year": 201402.0,
         "Mileage": 70309.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6639,11 +6640,11 @@
         "Year": 201401.0,
         "Mileage": 127285.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6652,11 +6653,11 @@
         "Year": 201211.0,
         "Mileage": 136835.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6665,11 +6666,11 @@
         "Year": 201904.0,
         "Mileage": 123688.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6678,11 +6679,11 @@
         "Year": 201805.0,
         "Mileage": 76200.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 640.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6691,11 +6692,11 @@
         "Year": 201201.0,
         "Mileage": 106031.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 640.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 649.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -6704,11 +6705,11 @@
         "Year": 201905.0,
         "Mileage": 104415.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 649.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 649.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -6717,11 +6718,11 @@
         "Year": 201902.0,
         "Mileage": 155780.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 649.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 649.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6730,11 +6731,11 @@
         "Year": 201203.0,
         "Mileage": 69894.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 649.0,
         "OfficeCityState": "강원"
     },
     {
         "Manufacturer": "기아",
+        "Price": 649.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -6743,11 +6744,11 @@
         "Year": 201509.0,
         "Mileage": 64524.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 649.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -6756,11 +6757,11 @@
         "Year": 201804.0,
         "Mileage": 133941.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6769,11 +6770,11 @@
         "Year": 201202.0,
         "Mileage": 99001.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6782,11 +6783,11 @@
         "Year": 201207.0,
         "Mileage": 77550.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6795,11 +6796,11 @@
         "Year": 201908.0,
         "Mileage": 118389.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6808,11 +6809,11 @@
         "Year": 202108.0,
         "Mileage": 14000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6821,11 +6822,11 @@
         "Year": 201201.0,
         "Mileage": 92849.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -6834,11 +6835,11 @@
         "Year": 201805.0,
         "Mileage": 109987.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6847,11 +6848,11 @@
         "Year": 201301.0,
         "Mileage": 113000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "전남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -6860,11 +6861,11 @@
         "Year": 201806.0,
         "Mileage": 139220.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6873,11 +6874,11 @@
         "Year": 201301.0,
         "Mileage": 128750.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6886,11 +6887,11 @@
         "Year": 201203.0,
         "Mileage": 125195.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6899,11 +6900,11 @@
         "Year": 201305.0,
         "Mileage": 82686.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6912,11 +6913,11 @@
         "Year": 201410.0,
         "Mileage": 126944.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -6925,11 +6926,11 @@
         "Year": 201311.0,
         "Mileage": 75762.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -6938,11 +6939,11 @@
         "Year": 201210.0,
         "Mileage": 71000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -6951,11 +6952,11 @@
         "Year": 201505.0,
         "Mileage": 99029.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 650.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -6964,11 +6965,11 @@
         "Year": 201402.0,
         "Mileage": 108375.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -6977,11 +6978,11 @@
         "Year": 201408.0,
         "Mileage": 140835.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -6990,11 +6991,11 @@
         "Year": 201712.0,
         "Mileage": 83600.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -7003,11 +7004,11 @@
         "Year": 201303.0,
         "Mileage": 102376.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -7016,11 +7017,11 @@
         "Year": 201210.0,
         "Mileage": 59236.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -7029,11 +7030,11 @@
         "Year": 201705.0,
         "Mileage": 141850.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7042,11 +7043,11 @@
         "Year": 201306.0,
         "Mileage": 133282.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7055,11 +7056,11 @@
         "Year": 201507.0,
         "Mileage": 118550.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7068,11 +7069,11 @@
         "Year": 201403.0,
         "Mileage": 103235.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7081,11 +7082,11 @@
         "Year": 201204.0,
         "Mileage": 107864.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7094,11 +7095,11 @@
         "Year": 201112.0,
         "Mileage": 62295.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "터보 럭셔리",
         "BadgeDetail": "",
@@ -7107,11 +7108,11 @@
         "Year": 201408.0,
         "Mileage": 133130.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -7120,11 +7121,11 @@
         "Year": 201403.0,
         "Mileage": 72510.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "울산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -7133,11 +7134,11 @@
         "Year": 201209.0,
         "Mileage": 89190.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7146,11 +7147,11 @@
         "Year": 201412.0,
         "Mileage": 123077.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -7159,11 +7160,11 @@
         "Year": 201403.0,
         "Mileage": 90748.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7172,11 +7173,11 @@
         "Year": 201402.0,
         "Mileage": 112541.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -7185,11 +7186,11 @@
         "Year": 201808.0,
         "Mileage": 97227.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7198,11 +7199,11 @@
         "Year": 201605.0,
         "Mileage": 122952.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7211,11 +7212,11 @@
         "Year": 201202.0,
         "Mileage": 96680.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -7224,11 +7225,11 @@
         "Year": 201706.0,
         "Mileage": 104347.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -7237,11 +7238,11 @@
         "Year": 201907.0,
         "Mileage": 54390.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7250,11 +7251,11 @@
         "Year": 201201.0,
         "Mileage": 150241.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7263,11 +7264,11 @@
         "Year": 201411.0,
         "Mileage": 138389.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -7276,11 +7277,11 @@
         "Year": 201307.0,
         "Mileage": 118390.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "EV",
         "BadgeDetail": "",
@@ -7289,11 +7290,11 @@
         "Year": 201401.0,
         "Mileage": 23153.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7302,11 +7303,11 @@
         "Year": 201207.0,
         "Mileage": 164429.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "대전"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7315,11 +7316,11 @@
         "Year": 201204.0,
         "Mileage": 86899.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -7328,11 +7329,11 @@
         "Year": 201808.0,
         "Mileage": 102964.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -7341,11 +7342,11 @@
         "Year": 201205.0,
         "Mileage": 79084.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -7354,11 +7355,11 @@
         "Year": 201210.0,
         "Mileage": 101915.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7367,11 +7368,11 @@
         "Year": 201511.0,
         "Mileage": 174111.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "충남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 650.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -7380,11 +7381,11 @@
         "Year": 201505.0,
         "Mileage": 99029.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 650.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 655.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -7393,11 +7394,11 @@
         "Year": 201804.0,
         "Mileage": 61444.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 655.0,
         "OfficeCityState": "부산"
     },
     {
         "Manufacturer": "기아",
+        "Price": 655.0,
         "Model": "레이",
         "Badge": "밴 고급형",
         "BadgeDetail": "",
@@ -7406,11 +7407,11 @@
         "Year": 201707.0,
         "Mileage": 68000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 655.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 659.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -7419,11 +7420,11 @@
         "Year": 201905.0,
         "Mileage": 108300.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 659.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 659.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7432,11 +7433,11 @@
         "Year": 201203.0,
         "Mileage": 99543.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 659.0,
         "OfficeCityState": "인천"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7445,11 +7446,11 @@
         "Year": 201301.0,
         "Mileage": 99777.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7458,11 +7459,11 @@
         "Year": 201205.0,
         "Mileage": 81300.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7471,11 +7472,11 @@
         "Year": 201211.0,
         "Mileage": 145489.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "광주"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -7484,11 +7485,11 @@
         "Year": 201906.0,
         "Mileage": 70968.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7497,11 +7498,11 @@
         "Year": 201211.0,
         "Mileage": 129100.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -7510,11 +7511,11 @@
         "Year": 201905.0,
         "Mileage": 68733.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "레이",
         "Badge": "터보",
         "BadgeDetail": "",
@@ -7523,11 +7524,11 @@
         "Year": 201308.0,
         "Mileage": 141577.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7536,11 +7537,11 @@
         "Year": 201409.0,
         "Mileage": 100000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -7549,11 +7550,11 @@
         "Year": 201304.0,
         "Mileage": 79552.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -7562,11 +7563,11 @@
         "Year": 201903.0,
         "Mileage": 103380.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 660.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "(세부등급 없음)",
@@ -7575,11 +7576,11 @@
         "Year": 201807.0,
         "Mileage": 76282.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 660.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 663.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -7588,11 +7589,11 @@
         "Year": 201505.0,
         "Mileage": 100893.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 663.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 663.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -7601,11 +7602,11 @@
         "Year": 201910.0,
         "Mileage": 34305.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 663.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 663.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -7614,11 +7615,11 @@
         "Year": 201908.0,
         "Mileage": 95800.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 663.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 669.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7627,11 +7628,11 @@
         "Year": 201205.0,
         "Mileage": 117601.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 669.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 669.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -7640,11 +7641,11 @@
         "Year": 201512.0,
         "Mileage": 115020.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 669.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 669.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7653,11 +7654,11 @@
         "Year": 201201.0,
         "Mileage": 40136.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 669.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 669.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -7666,11 +7667,11 @@
         "Year": 201512.0,
         "Mileage": 115020.0,
         "ServiceCopyCar": "DUPLICATION",
-        "Price": 669.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 669.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7679,11 +7680,11 @@
         "Year": 201201.0,
         "Mileage": 76320.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 669.0,
         "OfficeCityState": "강원"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -7692,11 +7693,11 @@
         "Year": 201711.0,
         "Mileage": 43232.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "서울"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "레이",
         "Badge": "프레스티지",
         "BadgeDetail": "",
@@ -7705,11 +7706,11 @@
         "Year": 201202.0,
         "Mileage": 101854.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "대구"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "더 뉴 레이",
         "Badge": "트렌디",
         "BadgeDetail": "",
@@ -7718,11 +7719,11 @@
         "Year": 201804.0,
         "Mileage": 159114.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "충북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "레이",
         "Badge": "디럭스",
         "BadgeDetail": "",
@@ -7731,11 +7732,11 @@
         "Year": 201403.0,
         "Mileage": 81930.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -7744,11 +7745,11 @@
         "Year": 201807.0,
         "Mileage": 115246.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "전북"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "더 뉴 레이",
         "Badge": "밴",
         "BadgeDetail": "고급형",
@@ -7757,11 +7758,11 @@
         "Year": 201809.0,
         "Mileage": 74211.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "레이",
         "Badge": "디럭스 스페셜",
         "BadgeDetail": "",
@@ -7770,11 +7771,11 @@
         "Year": 201211.0,
         "Mileage": 99233.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "경남"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "레이",
         "Badge": "럭셔리",
         "BadgeDetail": "",
@@ -7783,11 +7784,11 @@
         "Year": 201312.0,
         "Mileage": 90000.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "경기"
     },
     {
         "Manufacturer": "기아",
+        "Price": 670.0,
         "Model": "레이",
         "Badge": "밴",
         "BadgeDetail": "",
@@ -7796,7 +7797,6 @@
         "Year": 201712.0,
         "Mileage": 64374.0,
         "ServiceCopyCar": "ORIGINAL",
-        "Price": 670.0,
         "OfficeCityState": "경기"
     }
 ]
