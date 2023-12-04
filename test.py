@@ -1,9 +1,8 @@
 import requests
 import json
 
-def fetch_car_data(base_url, manufacturer, category, headers, cookies):
-    # Construct the query part of the URL
-    query = f"(And.Hidden.N._.(C.CarType.Y._.Manufacturer.{manufacturer}.)_.Category.{category}.)"
+def fetch_car_data(base_url, manufacturer, category, year_from, year_to, headers, cookies):
+    query = f"(And.Hidden.N._.Category.{category}._.(C.CarType.Y._.(C.Manufacturer.{manufacturer}._.ModelGroup.%EB%A0%88%EC%9D%B4.))_.Year.range({year_from}..{year_to}).)"
     url = f"{base_url}?count=true&q={query}&sr=%7CModifiedDate%7C0%7C20"
 
     response = requests.get(url, headers=headers, cookies=cookies)
@@ -37,6 +36,8 @@ def main():
     base_url = 'https://api.encar.com/search/car/list/premium'
     manufacturer = "기아"
     category = "경차"
+    year_from = "202000"
+    year_to = "202399"
 
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
@@ -58,7 +59,8 @@ def main():
         'WMONID': '5bPyRCUPVzy'
     }
 
-    raw_data = fetch_car_data(base_url, manufacturer, category, headers, cookies)
+
+    raw_data = fetch_car_data(base_url, manufacturer, category, year_from, year_to, headers, cookies)
     if raw_data:
         car_data = [{
             'Manufacturer': car.get('Manufacturer', ''),
@@ -68,7 +70,6 @@ def main():
             'GreenType': car.get('GreenType', ''),
             'FuelType': car.get('FuelType', ''),
             'Year': car.get('Year', ''),
-            'FormYear': car.get('FormYear', ''),
             'Mileage': car.get('Mileage', ''),
             'ServiceCopyCar': car.get('ServiceCopyCar', ''),
             'Price': car.get('Price', ''),
