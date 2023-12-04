@@ -1,0 +1,72 @@
+[
+    {
+        "Manufacturer": "현대",
+        "Model": "더 뉴 그랜저 IG",
+        "Badge": "2.5",
+        "BadgeDetail": "프리미엄",
+        "GreenType": "N",
+        "FuelType": "가솔린",
+        "Year": 202103.0,
+        "FormYear": "2021",
+        "Mileage": 42014.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 2649.0,
+        "OfficeCityState": "경기"
+    },
+    {
+        "Manufacturer": "현대",
+        "Model": "그랜저 하이브리드 (GN7)",
+        "Badge": "익스클루시브",
+        "BadgeDetail": "",
+        "GreenType": "Y",
+        "FuelType": "가솔린+전기",
+        "Year": 202304.0,
+        "FormYear": "2023",
+        "Mileage": 10525.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 4399.0,
+        "OfficeCityState": "경기"
+    },
+    {
+        "Manufacturer": "현대",
+        "Model": "더 뉴 그랜저 IG 하이브리드",
+        "Badge": "프리미엄 초이스",
+        "BadgeDetail": "",
+        "GreenType": "Y",
+        "FuelType": "가솔린+전기",
+        "Year": 202008.0,
+        "FormYear": "2020",
+        "Mileage": 87458.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 2749.0,
+        "OfficeCityState": "경기"
+    },
+    {
+        "Manufacturer": "현대",
+        "Model": "더 뉴 그랜저 IG 하이브리드",
+        "Badge": "프리미엄 초이스",
+        "BadgeDetail": "",
+        "GreenType": "Y",
+        "FuelType": "가솔린+전기",
+        "Year": 202008.0,
+        "FormYear": "2020",
+        "Mileage": 55169.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 2899.0,
+        "OfficeCityState": "경기"
+    },
+    {
+        "Manufacturer": "현대",
+        "Model": "더 뉴 그랜저 IG 하이브리드",
+        "Badge": "프리미엄 초이스",
+        "BadgeDetail": "",
+        "GreenType": "Y",
+        "FuelType": "가솔린+전기",
+        "Year": 202012.0,
+        "FormYear": "2021",
+        "Mileage": 77320.0,
+        "ServiceCopyCar": "ORIGINAL",
+        "Price": 2749.0,
+        "OfficeCityState": "경기"
+    }
+]
