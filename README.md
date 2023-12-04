@@ -1,6 +1,6 @@
 # Car Pricing from Encar (Used Cars in Korea)
 
-
+ - tbd
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -11,10 +11,10 @@
 
 ## Introduction
 
-
+- tbd
 
 ## Usage
 
-
+- tbd
 ```bash
 python main.py --manufacturer xxx --category xxx --year_from xxx --year_to xx --page_count xxx
