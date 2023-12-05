@@ -51,6 +51,9 @@ class CarDataFetcher:
         if not data:
             print("No data to create a table.")
             return
+        
+        # convert dict to list
+        data = list(data.values())
 
         headers = data[0].keys()
         md_table = "| " + " | ".join(headers) + " |\n"  # Table header
@@ -64,7 +67,7 @@ class CarDataFetcher:
             file.write(md_table)
 
     def fetch_and_save_data(self, output_json_filename, output_md_filename):
-        all_car_data = []
+        all_car_data = {}
 
         for page in range(self.page_count):
             raw_data = self.fetch_car_data(page)
@@ -76,21 +79,21 @@ class CarDataFetcher:
                 print(f"No data found for page {page}.")
                 continue
 
-            car_data = [{
-                'Manufacturer': car.get('Manufacturer', ''),
-                'Price': car.get('Price', ''),
-                'Model': car.get('Model', ''),
-                'Badge': car.get('Badge', ''),
-                'BadgeDetail': car.get('BadgeDetail', ''),
-                'GreenType': car.get('GreenType', ''),
-                'FuelType': car.get('FuelType', ''),
-                'Year': car.get('Year', ''),
-                'Mileage': car.get('Mileage', ''),
-                'ServiceCopyCar': car.get('ServiceCopyCar', ''),
-                'OfficeCityState': car.get('OfficeCityState', '')
-            } for car in car_data]
-
-            all_car_data.extend(car_data)
+            for car in car_data:
+                id = car.get('Id', '')
+                all_car_data[id] = {
+                    'Manufacturer': car.get('Manufacturer', ''),
+                    'Price': car.get('Price', ''),
+                    'Model': car.get('Model', ''),
+                    'Badge': car.get('Badge', ''),
+                    'BadgeDetail': car.get('BadgeDetail', ''),
+                    'GreenType': car.get('GreenType', ''),
+                    'FuelType': car.get('FuelType', ''),
+                    'Year': car.get('Year', ''),
+                    'Mileage': car.get('Mileage', ''),
+                    'ServiceCopyCar': car.get('ServiceCopyCar', ''),
+                    'OfficeCityState': car.get('OfficeCityState', '')
+                }
 
         if all_car_data:
             self.save_to_json(all_car_data, output_json_filename)
