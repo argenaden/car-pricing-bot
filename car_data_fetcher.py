@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 from typing import Dict
@@ -33,6 +34,25 @@ class CarDataFetcher:
             print(f"Request failed with status code {response.status_code}")
             return None
 
+    
+    def download_photos(self, car_id, photo_urls, save_dir):
+        dir_path = f"{save_dir}/{car_id}"
+        os.makedirs(dir_path, exist_ok=True)
+
+        for i, url in enumerate(photo_urls):
+            try:
+                response = requests.get(url)
+                response.raise_for_status()  # Raise an exception for 4xx and 5xx status codes
+            except requests.exceptions.RequestException as e:
+                print(f"Request failed with exception: {e}")
+                return None
+
+            if response.status_code == 200:
+                with open(f"{dir_path}/{i}.jpg", 'wb') as file:
+                    file.write(response.content)
+            else:
+                print(f"Request failed with status code {response.status_code}")
+                continue
 
     def prepare_photo_urls(self, single_car_data):
         if not single_car_data or 'Photos' not in single_car_data:
@@ -110,6 +130,7 @@ class CarDataFetcher:
                 }
                 if self.is_download_photos:
                     photo_urls = self.prepare_photo_urls(car)
+                    self.download_photos(id, photo_urls, self.save_dir)
 
         if all_car_data:
             self.save_to_json(all_car_data, output_json_filename)
