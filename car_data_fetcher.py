@@ -16,44 +16,40 @@ class CarDataFetcher:
         self.save_dir = save_dir
         self.headers = headers
         self.cookies = cookies
-
-    def fetch_car_data(self, page):
-        params = self.create_query_format(page)
-        url = f"{self.base_url}?count=true&q={params['q']}&sr={params['sr']}"
-
+    
+    def fetch_from(self, url, headers = None, cookies = None):
         try:
-            response = requests.get(url, headers=self.headers, cookies=self.cookies)
+            response = requests.get(url, headers=headers, cookies=cookies)
             response.raise_for_status()  # Raise an exception for 4xx and 5xx status codes
         except requests.exceptions.RequestException as e:
             print(f"Request failed with exception: {e}")
             return None
 
         if response.status_code == 200:
-            return response.json()
+            return response
         else:
             print(f"Request failed with status code {response.status_code}")
             return None
+        
+    def fetch_car_data(self, page):
+        params = self.create_query_format(page)
+        url = f"{self.base_url}?count=true&q={params['q']}&sr={params['sr']}"
 
+        response = self.fetch_from(url, self.headers, self.cookies)
+        if response is not None:
+            return response.json()
+        return response
     
     def download_photos(self, car_id, photo_urls, save_dir):
         dir_path = f"{save_dir}/{car_id}"
         os.makedirs(dir_path, exist_ok=True)
 
         for i, url in enumerate(photo_urls):
-            try:
-                response = requests.get(url)
-                response.raise_for_status()  # Raise an exception for 4xx and 5xx status codes
-            except requests.exceptions.RequestException as e:
-                print(f"Request failed with exception: {e}")
-                return None
-
-            if response.status_code == 200:
+            response = self.fetch_from(url)
+            if response is not None:
                 with open(f"{dir_path}/{i}.jpg", 'wb') as file:
                     file.write(response.content)
-            else:
-                print(f"Request failed with status code {response.status_code}")
-                continue
-
+    
     def prepare_photo_urls(self, single_car_data):
         if not single_car_data or 'Photos' not in single_car_data:
             return []
