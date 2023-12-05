@@ -33,6 +33,18 @@ class CarDataFetcher:
             print(f"Request failed with status code {response.status_code}")
             return None
 
+
+    def prepare_photo_urls(self, single_car_data):
+        if not single_car_data or 'Photos' not in single_car_data:
+            return []
+        
+        photo_urls = []
+        for photo in single_car_data['Photos']:
+            base_url = 'https://ci.encar.com' # TODO: move this to config.py
+            photo_urls.append(base_url + photo['location'])
+        
+        return photo_urls
+
     def create_query_format(self, page) -> Dict[str, str]:
         params = {
             "count": "true",
@@ -96,6 +108,8 @@ class CarDataFetcher:
                     'ServiceCopyCar': car.get('ServiceCopyCar', ''),
                     'OfficeCityState': car.get('OfficeCityState', '')
                 }
+                if self.is_download_photos:
+                    photo_urls = self.prepare_photo_urls(car)
 
         if all_car_data:
             self.save_to_json(all_car_data, output_json_filename)
