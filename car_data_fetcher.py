@@ -77,9 +77,15 @@ class CarDataFetcher:
                 continue
 
             for car in car_data:
-                price_krw = float(car.get('Price', 0)) * 10000
+                price_krw = int(float(car.get('Price', 0)) * 10000)
                 price_with_currency = f"{price_krw} KRW"
+
+                year_as_int = int(car.get('Year', 0))
+                mileage_as_int = int(car.get('Mileage', 0))
+
                 car['Price'] = price_with_currency
+                car['Year'] = year_as_int
+                car['Mileage'] = mileage_as_int
 
             car_data = [{
                 'Manufacturer': car.get('Manufacturer', ''),
