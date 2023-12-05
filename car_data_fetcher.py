@@ -4,13 +4,15 @@ from typing import Dict
 import argparse
 
 class CarDataFetcher:
-    def __init__(self, base_url, manufacturer, category, year_from, year_to, page_count, headers, cookies):
+    def __init__(self, base_url, manufacturer, category, year_from, year_to, page_count, download_photos, save_dir, headers, cookies):
         self.base_url = base_url
         self.manufacturer = manufacturer
         self.category = category
         self.year_from = year_from
         self.year_to = year_to
         self.page_count = page_count
+        self.is_download_photos = download_photos
+        self.save_dir = save_dir
         self.headers = headers
         self.cookies = cookies
 
