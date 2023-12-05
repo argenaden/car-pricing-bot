@@ -47,8 +47,7 @@ class CarDataFetcher:
         for i, url in enumerate(photo_urls):
             response = self.fetch_from(url)
             if response is not None:
-                with open(f"{dir_path}/{i}.jpg", 'wb') as file:
-                    file.write(response.content)
+                self.save_image(response.content, f"{dir_path}/{i}.jpg")
     
     def prepare_photo_urls(self, single_car_data):
         if not single_car_data or 'Photos' not in single_car_data:
@@ -68,6 +67,10 @@ class CarDataFetcher:
             "sr": f"|PriceAsc|{(page * 10) * 2}|20"
         }
         return params
+
+    def save_image(self, image, filename):
+        with open(filename, 'wb') as file:
+            file.write(image)
 
     def save_to_json(self, data, filename):
         with open(filename, 'w', encoding='utf-8') as file:
