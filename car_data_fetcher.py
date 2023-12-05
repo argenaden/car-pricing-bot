@@ -76,6 +76,11 @@ class CarDataFetcher:
                 print(f"No data found for page {page}.")
                 continue
 
+            for car in car_data:
+                price_krw = float(car.get('Price', 0)) * 10000
+                price_with_currency = f"{price_krw} KRW"
+                car['Price'] = price_with_currency
+
             car_data = [{
                 'Manufacturer': car.get('Manufacturer', ''),
                 'Price': car.get('Price', ''),
