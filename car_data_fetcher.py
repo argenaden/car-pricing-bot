@@ -114,18 +114,25 @@ class CarDataFetcher:
 
             for car in car_data:
                 id = car.get('Id', '')
+
+                price_krw = int(float(car.get('Price', 0)) * 10000)
+                price_with_currency = f"{price_krw} KRW"
+
+                year_as_int = int(car.get('Year', 0))
+                mileage_as_int = int(car.get('Mileage', 0))
+
                 all_car_data[id] = {
                     'Manufacturer': car.get('Manufacturer', ''),
-                    'Price': car.get('Price', ''),
+                    'Price': price_with_currency,
                     'Model': car.get('Model', ''),
                     'Badge': car.get('Badge', ''),
                     'BadgeDetail': car.get('BadgeDetail', ''),
                     'GreenType': car.get('GreenType', ''),
                     'FuelType': car.get('FuelType', ''),
-                    'Year': car.get('Year', ''),
-                    'Mileage': car.get('Mileage', ''),
+                    'Year': year_as_int,
+                    'Mileage': mileage_as_int,
                     'ServiceCopyCar': car.get('ServiceCopyCar', ''),
-                    'OfficeCityState': car.get('OfficeCityState', '')
+                    'OfficeCityState': car.get('OfficeCityState', ''),
                 }
                 if self.is_download_photos:
                     photo_urls = self.prepare_photo_urls(car)
