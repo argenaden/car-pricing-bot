@@ -1,20 +1,14 @@
 import requests
 import openai
-from bot_config import openai_api_key, telegram_bot_token
+from bot_config import Config
 
-openai.api_key = openai_api_key
+openai.api_key = Config.OPENAI_API_KEY
+telegram_bot_token = Config.TELEGRAM_BOT_TOKEN
+
 
 def load_car_details():
     with open('car_details.json', 'r') as file:
         return json.load(file)
-
-# TODO:  Logic to find car details based on a question
-# just ex
-def find_car_details(question, car_data):
-    # price, model and bashka bashka
-    return "example"
-
-
 
 def generate_answer(question):
     response = openai.completions.create(
