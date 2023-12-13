@@ -1,9 +1,13 @@
 FROM python:3.9-slim
 
-WORKDIR /app
+WORKDIR /usr/src/app
 
-COPY . /app
+COPY . .
 
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["python", "main.py"]
+EXPOSE 5000
+
+ENV NAME World
+
+CMD ["python", "./bot/bot_run.py"]
