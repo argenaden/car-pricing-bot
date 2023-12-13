@@ -1,4 +1,4 @@
 settings.py
-config.py
+bot_config.py
 *_pycache_*
 .idea
