@@ -7,7 +7,7 @@ telegram_bot_token = Config.TELEGRAM_BOT_TOKEN
 
 
 def load_car_details():
-    with open('car_details.json', 'r') as file:
+    with open('data/car_details.json', 'r') as file:
         return json.load(file)
 
 def generate_answer(question):

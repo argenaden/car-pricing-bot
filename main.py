@@ -1,7 +1,8 @@
 from typing import Dict
-from car_data_fetcher import CarDataFetcher
-from config import headers, cookies
+from data.car_data_fetcher import CarDataFetcher
+from config.settings import HEADERS, COOKIES
 import argparse
+
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Fetch and save car data.")
@@ -27,8 +28,8 @@ def main():
         args.page_count,
         args.download_photos, 
         args.save_dir, 
-        headers, 
-        cookies
+        HEADERS,
+        COOKIES
     )
 
     car_data_fetcher.fetch_and_save_data('car_details.json', 'car_details.md')
