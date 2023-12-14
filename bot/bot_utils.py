@@ -17,7 +17,7 @@ def generate_answer(question):
 
     keywords = {
         "kia": "kia",
-        "киа": "kia",
+        "киа": "киа",
         "hyundai": "hyundai",
         "цены": "price",
         "price": "price",
@@ -38,7 +38,7 @@ def generate_answer(question):
                 office_city_state = car.get("Город Офиса", "Office location not specified")
                 car_info = f"Model: {model}, Price: {price}, Fuel Type: {fuel_type}, Location: {office_city_state}"
 
-                photo_url = f"https://github.com/argenaden/car-pricing-korea/blob/main/car_photos/{car_id}/3.jpg"
+                photo_url = f"https://raw.githubusercontent.com/argenaden/car-pricing-korea/main/car_photos/{car_id}/2.jpg"
                 responses.append((photo_url, car_info))
 
                 if len(responses) >= 5:
