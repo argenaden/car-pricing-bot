@@ -14,9 +14,7 @@ car_details = load_car_details()
 
 def generate_answer(question):
     question_lower = question.lower()
-    response = ""
 
-    # for just for testing
     keywords = {
         "kia": "kia",
         "киа": "kia",
@@ -30,23 +28,23 @@ def generate_answer(question):
     relevant_keywords = [value for key, value in keywords.items() if key in question_lower]
 
     if relevant_keywords:
+        responses = []
+
         for car_id, car in car_details.items():
             if any(car.get("Производитель", "").lower() == keyword for keyword in relevant_keywords):
                 model = car.get("Модель", "Model not specified")
                 price = car.get("Цена", "Price not available")
-                car_info = f"Model: {model}, Price: {price}\n"
+                fuel_type = car.get("Тип Топлива", "Fuel type not specified")
+                office_city_state = car.get("Город Офиса", "Office location not specified")
+                car_info = f"Model: {model}, Price: {price}, Fuel Type: {fuel_type}, Location: {office_city_state}"
 
-                # testing photos
-                photo_link = f"https://github.com/argenaden/car-pricing-korea/blob/main/car_photos/{car_id}/3.jpg"
-                car_info += f"Photo: {photo_link}\n\n"
+                photo_url = f"https://github.com/argenaden/car-pricing-korea/blob/main/car_photos/{car_id}/3.jpg"
+                responses.append((photo_url, car_info))
 
-                if len(response) + len(car_info) <= 1000:
-                    response += car_info
-                else:
+                if len(responses) >= 5:
                     break
 
-        if response:
-            return response.strip()
+        return responses
     else:
         response = openai.completions.create(
             model="text-davinci-003",
@@ -55,20 +53,6 @@ def generate_answer(question):
             temperature=0.7
         )
         return response.choices[0].text.strip()
-
-
-
-def keyword_translation(keyword):
-    translations = {
-        "Model": "Модель",
-        "Manufacturer": "Производитель",
-        "Price": "Цена",
-        "FuelType": "Тип Топлива",
-        "OfficeCityState": "Город Офиса"
-    }
-    return translations.get(keyword, keyword)
-
-
 
 def message_parser(message):
     chat_id = message['message']['chat']['id']
@@ -79,3 +63,23 @@ def send_message_telegram(chat_id, text):
     url = f'https://api.telegram.org/bot{telegram_bot_token}/sendMessage'
     payload = {'chat_id': chat_id, 'text': text}
     return requests.post(url, json=payload)
+
+def send_photo_telegram(chat_id, photo_url, caption):
+    url = f'https://api.telegram.org/bot{telegram_bot_token}/sendPhoto'
+    payload = {
+        'chat_id': chat_id,
+        'photo': photo_url,
+        'caption': caption
+    }
+    return requests.post(url, json=payload)
+
+def handle_incoming_message(message):
+    chat_id, incoming_question = message_parser(message)
+    responses = generate_answer(incoming_question)
+
+    if isinstance(responses, list):
+        for photo_url, caption in responses:
+            send_photo_telegram(chat_id, photo_url, caption)
+    else:
+        send_message_telegram(chat_id, responses)
+
