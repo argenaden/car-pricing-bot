@@ -32,7 +32,7 @@ def main():
         COOKIES
     )
 
-    car_data_fetcher.fetch_and_save_data('car_details.json', 'car_details.md')
+    #car_data_fetcher.fetch_and_save_data('data/car_details.json', 'data/car_details.md')
 
 if __name__ == "__main__":
     main()
