@@ -13,46 +13,60 @@ def load_car_details():
 car_details = load_car_details()
 
 def generate_answer(question):
-    # Pre-process the user's question to identify keywords
-    keywords = []
+    question_lower = question.lower()
+    response = ""
 
-    if "model" in question.lower():
-        keywords.append("Model")
-    if "brand" in question.lower():
-        keywords.append("Manufacturer")
-    if "price" in question.lower():
-        keywords.append("Price")
-    if "fuel type" in question.lower():
-        keywords.append("FuelType")
-    if "location" in question.lower():
-        keywords.append("OfficeCityState")
+    # for just for testing
+    keywords = {
+        "kia": "kia",
+        "киа": "kia",
+        "hyundai": "hyundai",
+        "цены": "price",
+        "price": "price",
+        "mashina": "car",
+        "машина": "car"
+    }
 
-    if keywords:
-        response = ""
+    relevant_keywords = [value for key, value in keywords.items() if key in question_lower]
 
-        for car in car_details:
-            if car.get("Manufacturer", "").lower() == "기아":
-                car_info = ""
-                for keyword in keywords:
-                    if keyword in car:
-                        car_info += f"{keyword}: {car[keyword]}\n"
-                car_info += "\n"
+    if relevant_keywords:
+        for car_id, car in car_details.items():
+            if any(car.get("Производитель", "").lower() == keyword for keyword in relevant_keywords):
+                model = car.get("Модель", "Model not specified")
+                price = car.get("Цена", "Price not available")
+                car_info = f"Model: {model}, Price: {price}\n"
 
-                if len(response) + len(car_info) <= 500:
+                # testing photos
+                photo_link = f"https://github.com/argenaden/car-pricing-korea/blob/main/car_photos/{car_id}/3.jpg"
+                car_info += f"Photo: {photo_link}\n\n"
+
+                if len(response) + len(car_info) <= 1000:
                     response += car_info
                 else:
                     break
 
         if response:
             return response.strip()
+    else:
+        response = openai.completions.create(
+            model="text-davinci-003",
+            prompt=f"Q: {question}\nA:",
+            max_tokens=1024,
+            temperature=0.7
+        )
+        return response.choices[0].text.strip()
 
-    response = openai.completions.create(
-        model="text-davinci-003",
-        prompt=f"Q: {question}\nA:",
-        max_tokens=1024,
-        temperature=0.7
-    )
-    return response.choices[0].text.strip()
+
+
+def keyword_translation(keyword):
+    translations = {
+        "Model": "Модель",
+        "Manufacturer": "Производитель",
+        "Price": "Цена",
+        "FuelType": "Тип Топлива",
+        "OfficeCityState": "Город Офиса"
+    }
+    return translations.get(keyword, keyword)
 
 
 
