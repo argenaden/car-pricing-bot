@@ -46,9 +46,10 @@ def generate_answer(question):
 
         return responses
     else:
+        context = "У меня вопрос про автомобили в Корее"
         response = openai.completions.create(
             model="text-davinci-003",
-            prompt=f"Q: {question}\nA:",
+            prompt=f"{context}\nQ: {question}\nA:",
             max_tokens=1024,
             temperature=0.7
         )
