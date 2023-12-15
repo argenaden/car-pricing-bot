@@ -1,30 +1,32 @@
 import requests
 import openai
-from bot_config import Config
 import json
+import os
+from bot_config import Config
 
 openai.api_key = Config.OPENAI_API_KEY
 telegram_bot_token = Config.TELEGRAM_BOT_TOKEN
 
 def load_car_details():
-    with open('data/car_details.json', 'r') as file:
+    project_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+    json_file_path = os.path.join(project_directory, 'data', 'car_details.json')
+    with open(json_file_path, 'r') as file:
         return json.load(file)
 
 car_details = load_car_details()
 
+keywords = {
+    "kia": "kia",
+    "киа": "киа",
+    "hyundai": "hyundai",
+    "цены": "price",
+    "price": "price",
+    "mashina": "car",
+    "машина": "car"
+}
+
 def generate_answer(question):
     question_lower = question.lower()
-
-    keywords = {
-        "kia": "kia",
-        "киа": "киа",
-        "hyundai": "hyundai",
-        "цены": "price",
-        "price": "price",
-        "mashina": "car",
-        "машина": "car"
-    }
-
     relevant_keywords = [value for key, value in keywords.items() if key in question_lower]
 
     if relevant_keywords:
@@ -83,4 +85,3 @@ def handle_incoming_message(message):
             send_photo_telegram(chat_id, photo_url, caption)
     else:
         send_message_telegram(chat_id, responses)
-
