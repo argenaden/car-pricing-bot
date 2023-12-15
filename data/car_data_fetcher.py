@@ -5,10 +5,10 @@ from typing import Dict
 import argparse
 
 class CarDataFetcher:
-    def __init__(self, base_url, manufacturer, category, year_from, year_to, page_count, download_photos, save_dir, headers, cookies):
+    def __init__(self, base_url, manufacturer,model, year_from, year_to, page_count, download_photos, save_dir, headers, cookies):
         self.base_url = base_url
         self.manufacturer = manufacturer
-        self.category = category
+        self.model = model
         self.year_from = year_from
         self.year_to = year_to
         self.page_count = page_count
@@ -63,9 +63,10 @@ class CarDataFetcher:
     def create_query_format(self, page) -> Dict[str, str]:
         params = {
             "count": "true",
-            "q": f"(And.Hidden.N._.Category.{self.category}._.(C.CarType.Y._.(C.Manufacturer.{self.manufacturer}._.ModelGroup.%EB%A0%88%EC%9D%B4.))_.Year.range({self.year_from}..{self.year_to}).)",
+            "q": f"(And.Hidden.N._.(C.CarType.Y._.(C.Manufacturer.{self.manufacturer}._.ModelGroup.{self.model}.))_.Year.range({self.year_from}..{self.year_to}).)",
             "sr": f"|PriceAsc|{(page * 10) * 2}|20"
         }
+        print(params)
         return params
 
     def save_image(self, image, filename):
