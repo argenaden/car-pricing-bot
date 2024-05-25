@@ -1,4 +1,4 @@
-requests==2.31.0
+requests==2.32.2
 typing-extensions==3.10.0.2
 argparse==1.4.0
 flask
