@@ -17,10 +17,8 @@ def parse_arguments():
 
 def main():
     args = parse_arguments()
-    base_url = 'https://api.encar.com/search/car/list/general'
 
     car_data_fetcher = CarDataFetcher(
-        base_url, 
         args.manufacturer,
         args.model,
         args.year_from, 

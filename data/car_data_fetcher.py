@@ -5,8 +5,7 @@ from typing import Dict
 import argparse
 
 class CarDataFetcher:
-    def __init__(self, base_url, manufacturer,model, year_from, year_to, page_count, download_photos, save_dir, headers, cookies):
-        self.base_url = base_url
+    def __init__(self, manufacturer,model, year_from, year_to, page_count, download_photos, save_dir, headers, cookies):
         self.manufacturer = manufacturer
         self.model = model
         self.year_from = year_from
@@ -16,6 +15,12 @@ class CarDataFetcher:
         self.save_dir = save_dir
         self.headers = headers
         self.cookies = cookies
+
+        # TODO: move these to config.py
+        self.base_url = 'https://api.encar.com/search/car/list/general'
+        self.photo_base_url = 'https://ci.encar.com'
+        self.inspection_base_url = 'https://api.encar.com/v1/readside/inspection/vehicle/'
+        self.diagnosis_base_url = 'https://api.encar.com/v1/readside/diagnosis/vehicle/'
     
     def fetch_from(self, url, headers = None, cookies = None):
         try:
@@ -55,8 +60,7 @@ class CarDataFetcher:
         
         photo_urls = []
         for photo in single_car_data['Photos']:
-            base_url = 'https://ci.encar.com' # TODO: move this to config.py
-            photo_urls.append(base_url + photo['location'])
+            photo_urls.append(self.photo_base_url + photo['location'])
         
         return photo_urls
 
