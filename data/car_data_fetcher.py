@@ -118,6 +118,10 @@ class CarDataFetcher:
                 continue
 
             for car in car_data:
+                # Skip if the car is for rent
+                if car.get('SellType', '') == '렌트':
+                    continue
+
                 id = car.get('Id', '')
 
                 price_krw = int(float(car.get('Price', 0)) * 10000)
