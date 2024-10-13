@@ -20,6 +20,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+TELEGRAM_BOT_API_KEY = os.environ["TELEGRAM_BOT_API_KEY"]
 YEAR_RANGE_START = 2018
 YEAR_RANGE_END = 2024
 
@@ -68,7 +69,8 @@ async def manufacturer(update: Update, context: ContextTypes.DEFAULT_TYPE) -> in
     context.user_data['manufacturer'] = mnfctr
     logger.info(f"User {user.first_name} is interested in {mnfctr} cars.")
 
-    reply_keyboard = [[mdl] for mdl in CAR_DICT[mnfctr]]  # Create a dynamic keyboard based on manufacturer
+    # Create a dynamic keyboard for selecting the model
+    reply_keyboard = [[mdl] for mdl in CAR_DICT[mnfctr]]
 
     await update.message.reply_text(
         f"Вы выбрали {mnfctr}. Теперь выберите модель автомобиля:",
@@ -90,7 +92,8 @@ async def model(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     context.user_data['model'] = model
     logger.info(f"User {user.first_name} selected {model} model from {mnfctr}.")
 
-    reply_keyboard = [[str(year)] for year in range(YEAR_RANGE_START, YEAR_RANGE_END + 1)]  # Create a dynamic keyboard for selecting the start year
+    # Create a dynamic keyboard for selecting the start year
+    reply_keyboard = [[str(year)] for year in range(YEAR_RANGE_START, YEAR_RANGE_END + 1)]
 
     await update.message.reply_text(
         f"Вы выбрали {mnfctr} {model}. Теперь выберите начальный год диапазона (например, 2020):",
@@ -103,7 +106,11 @@ async def model(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 async def start_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Handles the start year selection and asks for the end year."""
     user = update.message.from_user
-    start_year = int(update.message.text)
+    try:
+        start_year = int(update.message.text)
+    except ValueError:
+        await update.message.reply_text("Пожалуйста, введите год в числовом формате.")
+        return START_YEAR
 
     if start_year < YEAR_RANGE_START or start_year > YEAR_RANGE_END:
         await update.message.reply_text(f"Пожалуйста, выберите год в диапазоне от {YEAR_RANGE_START} до {YEAR_RANGE_END}.")
@@ -112,7 +119,8 @@ async def start_year_selection(update: Update, context: ContextTypes.DEFAULT_TYP
     context.user_data['start_year'] = start_year
     logger.info(f"User {user.first_name} selected {start_year} as the start year.")
 
-    reply_keyboard = [[str(year)] for year in range(start_year, YEAR_RANGE_END + 1)]  # Create a dynamic keyboard for selecting the end year
+    # Create a dynamic keyboard for selecting the end year
+    reply_keyboard = [[str(year)] for year in range(start_year, YEAR_RANGE_END + 1)]
 
     await update.message.reply_text(
         f"Вы выбрали {start_year} как начальный год. Теперь выберите конечный год:",
@@ -125,16 +133,19 @@ async def start_year_selection(update: Update, context: ContextTypes.DEFAULT_TYP
 async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Handles the end year selection and asks for the location."""
     user = update.message.from_user
-    end_year = int(update.message.text)
-    start_year = context.user_data['start_year']
+    try:
+        end_year = int(update.message.text)
+    except ValueError:
+        await update.message.reply_text("Пожалуйста, введите год в числовом формате.")
+        return END_YEAR
 
+    start_year = context.user_data['start_year']
     if end_year < start_year or end_year > YEAR_RANGE_END:
         await update.message.reply_text(f"Пожалуйста, выберите год в диапазоне от {start_year} до {YEAR_RANGE_END}.")
         return END_YEAR
 
-    # Retrieve data_path from context.application_data
-    # data_path = context.application_data['data_path']
-    data_path = "/Users/kanybekasanbekov/projects/car-pricing-korea/data/hyundai.json"
+    # Retrieve data_path from the application context
+    data_path = context.bot_data['data_path']
 
     context.user_data['end_year'] = int(end_year)
     mnfctr = context.user_data['manufacturer']
@@ -142,7 +153,6 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
     start_year = context.user_data['start_year']
     end_year = context.user_data['end_year']
 
-    # await query.edit_message_text(f"Вы выбрали {mnfctr} {model} с {start_year} по {end_year} года выпуска.")
     await update.message.reply_text(f"Вы выбрали {mnfctr} {model} с {start_year} по {end_year} года выпуска.")
 
     with open(data_path, 'r') as file:
@@ -163,16 +173,13 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
                 answer_msg += f"Топливо: {KOR2ENG_MAP[car_info['FuelType']]}\n"
                 answer_msg += f"Цена: {car_info['Price']}\n"
                 answer_msg += f"Ссылка: {car_info['URL']}\n"
-                # await query.message.reply_text(answer_msg)
                 await update.message.reply_text(answer_msg)
                 if num_answers == 5:
                     break
     
     if num_answers == 0:
-        # await query.edit_message_text("Извините, но я не могу найти автомобиль по вашему запросу.")
         await update.message.reply_text("Извините, но я не могу найти автомобиль по вашему запросу.")
 
-    # await update.callback_query.message.reply_text(
     await update.message.reply_text(
         "Спасибо за использование нашего бота! Если хотите попробовать ещё раз, нажмите /start."
     )
@@ -193,16 +200,21 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 def main(data_path) -> None:
     """Run the bot."""
     # Create the Application and pass it your bot's token.
-    application = Application.builder().token("TELEGRAM_TOKEN").build()
+    application = Application.builder().token(TELEGRAM_BOT_API_KEY).build()
+
+    # Store data_path in application context
+    if not os.path.isfile(data_path) or not data_path.endswith('.json'):
+        raise ValueError("Invalid data path. Please provide a valid JSON file.")
+    application.bot_data['data_path'] = data_path
 
     # Add conversation handler with the states
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler("start", start)],
         states={
-            MANUFACTURER: [MessageHandler(filters.Regex(f"^({'|'.join(CAR_DICT.keys())})$"), manufacturer)],
+            MANUFACTURER: [MessageHandler(filters.TEXT, manufacturer)],
             MODEL: [MessageHandler(filters.TEXT, model)],
-            START_YEAR: [MessageHandler(filters.Regex(r"^(201[8-9]|202[0-4])$"), start_year_selection)],
-            END_YEAR: [MessageHandler(filters.Regex(r"^(201[8-9]|202[0-4])$"), end_year_selection)],
+            START_YEAR: [MessageHandler(filters.TEXT, start_year_selection)],
+            END_YEAR: [MessageHandler(filters.TEXT, end_year_selection)],
         },
         fallbacks=[CommandHandler("cancel", cancel)],
     )
