@@ -68,7 +68,8 @@ async def manufacturer(update: Update, context: ContextTypes.DEFAULT_TYPE) -> in
     context.user_data['manufacturer'] = mnfctr
     logger.info(f"User {user.first_name} is interested in {mnfctr} cars.")
 
-    reply_keyboard = [[mdl] for mdl in CAR_DICT[mnfctr]]  # Create a dynamic keyboard based on manufacturer
+    # Create a dynamic keyboard for selecting the model
+    reply_keyboard = [[mdl] for mdl in CAR_DICT[mnfctr]]
 
     await update.message.reply_text(
         f"Вы выбрали {mnfctr}. Теперь выберите модель автомобиля:",
@@ -90,7 +91,8 @@ async def model(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     context.user_data['model'] = model
     logger.info(f"User {user.first_name} selected {model} model from {mnfctr}.")
 
-    reply_keyboard = [[str(year)] for year in range(YEAR_RANGE_START, YEAR_RANGE_END + 1)]  # Create a dynamic keyboard for selecting the start year
+    # Create a dynamic keyboard for selecting the start year
+    reply_keyboard = [[str(year)] for year in range(YEAR_RANGE_START, YEAR_RANGE_END + 1)]
 
     await update.message.reply_text(
         f"Вы выбрали {mnfctr} {model}. Теперь выберите начальный год диапазона (например, 2020):",
@@ -112,7 +114,8 @@ async def start_year_selection(update: Update, context: ContextTypes.DEFAULT_TYP
     context.user_data['start_year'] = start_year
     logger.info(f"User {user.first_name} selected {start_year} as the start year.")
 
-    reply_keyboard = [[str(year)] for year in range(start_year, YEAR_RANGE_END + 1)]  # Create a dynamic keyboard for selecting the end year
+    # Create a dynamic keyboard for selecting the end year
+    reply_keyboard = [[str(year)] for year in range(start_year, YEAR_RANGE_END + 1)]
 
     await update.message.reply_text(
         f"Вы выбрали {start_year} как начальный год. Теперь выберите конечный год:",
@@ -142,7 +145,6 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
     start_year = context.user_data['start_year']
     end_year = context.user_data['end_year']
 
-    # await query.edit_message_text(f"Вы выбрали {mnfctr} {model} с {start_year} по {end_year} года выпуска.")
     await update.message.reply_text(f"Вы выбрали {mnfctr} {model} с {start_year} по {end_year} года выпуска.")
 
     with open(data_path, 'r') as file:
