@@ -105,7 +105,11 @@ async def model(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 async def start_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Handles the start year selection and asks for the end year."""
     user = update.message.from_user
-    start_year = int(update.message.text)
+    try:
+        start_year = int(update.message.text)
+    except ValueError:
+        await update.message.reply_text("Пожалуйста, введите год в числовом формате.")
+        return START_YEAR
 
     if start_year < YEAR_RANGE_START or start_year > YEAR_RANGE_END:
         await update.message.reply_text(f"Пожалуйста, выберите год в диапазоне от {YEAR_RANGE_START} до {YEAR_RANGE_END}.")
@@ -128,9 +132,13 @@ async def start_year_selection(update: Update, context: ContextTypes.DEFAULT_TYP
 async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Handles the end year selection and asks for the location."""
     user = update.message.from_user
-    end_year = int(update.message.text)
-    start_year = context.user_data['start_year']
+    try:
+        end_year = int(update.message.text)
+    except ValueError:
+        await update.message.reply_text("Пожалуйста, введите год в числовом формате.")
+        return END_YEAR
 
+    start_year = context.user_data['start_year']
     if end_year < start_year or end_year > YEAR_RANGE_END:
         await update.message.reply_text(f"Пожалуйста, выберите год в диапазоне от {start_year} до {YEAR_RANGE_END}.")
         return END_YEAR
@@ -201,10 +209,10 @@ def main(data_path) -> None:
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler("start", start)],
         states={
-            MANUFACTURER: [MessageHandler(filters.Regex(f"^({'|'.join(CAR_DICT.keys())})$"), manufacturer)],
+            MANUFACTURER: [MessageHandler(filters.TEXT, manufacturer)],
             MODEL: [MessageHandler(filters.TEXT, model)],
-            START_YEAR: [MessageHandler(filters.Regex(r"^(201[8-9]|202[0-4])$"), start_year_selection)],
-            END_YEAR: [MessageHandler(filters.Regex(r"^(201[8-9]|202[0-4])$"), end_year_selection)],
+            START_YEAR: [MessageHandler(filters.TEXT, start_year_selection)],
+            END_YEAR: [MessageHandler(filters.TEXT, end_year_selection)],
         },
         fallbacks=[CommandHandler("cancel", cancel)],
     )
