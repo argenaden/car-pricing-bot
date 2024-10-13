@@ -143,7 +143,7 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
         await update.message.reply_text(f"Пожалуйста, выберите год в диапазоне от {start_year} до {YEAR_RANGE_END}.")
         return END_YEAR
 
-    # Retrieve data_path from context.application_data
+    # Retrieve data_path from the application context
     data_path = context.bot_data['data_path']
 
     context.user_data['end_year'] = int(end_year)
@@ -172,16 +172,13 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
                 answer_msg += f"Топливо: {KOR2ENG_MAP[car_info['FuelType']]}\n"
                 answer_msg += f"Цена: {car_info['Price']}\n"
                 answer_msg += f"Ссылка: {car_info['URL']}\n"
-                # await query.message.reply_text(answer_msg)
                 await update.message.reply_text(answer_msg)
                 if num_answers == 5:
                     break
     
     if num_answers == 0:
-        # await query.edit_message_text("Извините, но я не могу найти автомобиль по вашему запросу.")
         await update.message.reply_text("Извините, но я не могу найти автомобиль по вашему запросу.")
 
-    # await update.callback_query.message.reply_text(
     await update.message.reply_text(
         "Спасибо за использование нашего бота! Если хотите попробовать ещё раз, нажмите /start."
     )
