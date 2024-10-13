@@ -144,8 +144,7 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
         return END_YEAR
 
     # Retrieve data_path from context.application_data
-    # data_path = context.application_data['data_path']
-    data_path = "/Users/kanybekasanbekov/projects/car-pricing-korea/data/hyundai.json"
+    data_path = context.bot_data['data_path']
 
     context.user_data['end_year'] = int(end_year)
     mnfctr = context.user_data['manufacturer']
@@ -203,7 +202,11 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 def main(data_path) -> None:
     """Run the bot."""
     # Create the Application and pass it your bot's token.
-    application = Application.builder().token("TELEGRAM_TOKEN").build()
+
+    # Store data_path in application context
+    if not os.path.isfile(data_path) or not data_path.endswith('.json'):
+        raise ValueError("Invalid data path. Please provide a valid JSON file.")
+    application.bot_data['data_path'] = data_path
 
     # Add conversation handler with the states
     conv_handler = ConversationHandler(
