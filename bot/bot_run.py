@@ -20,6 +20,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+TELEGRAM_BOT_API_KEY = os.environ["TELEGRAM_BOT_API_KEY"]
 YEAR_RANGE_START = 2018
 YEAR_RANGE_END = 2024
 
@@ -199,6 +200,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 def main(data_path) -> None:
     """Run the bot."""
     # Create the Application and pass it your bot's token.
+    application = Application.builder().token(TELEGRAM_BOT_API_KEY).build()
 
     # Store data_path in application context
     if not os.path.isfile(data_path) or not data_path.endswith('.json'):
