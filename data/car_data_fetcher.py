@@ -18,9 +18,10 @@ class CarDataFetcher:
 
         # TODO: move these to config.py
         self.base_url = 'https://api.encar.com/search/car/list/general'
-        self.photo_base_url = 'https://ci.encar.com'
         self.inspection_base_url = 'https://api.encar.com/v1/readside/inspection/vehicle/'
         self.diagnosis_base_url = 'https://api.encar.com/v1/readside/diagnosis/vehicle/'
+        self.photo_base_url = 'https://ci.encar.com'
+        self.car_profile_base_url = 'https://fem.encar.com/cars/detail/'
     
     def fetch_from(self, url, headers = None, cookies = None):
         try:
@@ -44,6 +45,43 @@ class CarDataFetcher:
         if response is not None:
             return response.json()
         return response
+    
+    def fetch_detailed_data(self, car_id, base_url):
+        url = f"{base_url}{car_id}"
+        response = self.fetch_from(url, self.headers, self.cookies)
+        if response is not None:
+            return response.json()
+        return response
+
+    def parse_diagnosis_data(self, diagnosis_dict):
+        if not diagnosis_dict:
+            return {}
+        res = {}
+        for item in diagnosis_dict['items']:
+            if item['name'] in ['CHECKER_COMMENT', 'OUTER_PANEL_COMMENT']:
+                res[item['name']] = item['result']
+            else:
+                res[item['name']] = item['resultCode']
+        return res
+    
+    def parse_inspection_data(self, inspection_dict):
+        if not inspection_dict:
+            return {}, {}
+        res1 = {
+            'accident': inspection_dict['master']['accdient'],
+            'simpleRepair': inspection_dict['master']['simpleRepair'],
+        }
+        res2 = {}
+        for item in inspection_dict['inners']:
+            info = {}
+            for subitem in item['children']:
+                try:
+                    value = subitem['statusType']['title']
+                except:
+                    value = None
+                info[subitem['type']['title']] = value
+            res2[item['type']['title']] = info
+        return res1, res2
     
     def download_photos(self, car_id, photo_urls, save_dir):
         dir_path = f"{save_dir}/{car_id}"
@@ -130,7 +168,7 @@ class CarDataFetcher:
                 year_as_int = int(car.get('Year', 0))
                 mileage_as_int = int(car.get('Mileage', 0))
 
-                all_car_data[id] = {
+                car_dict = {
                     'Manufacturer': car.get('Manufacturer', ''),
                     'Price': price_with_currency,
                     'Model': car.get('Model', ''),
@@ -142,7 +180,19 @@ class CarDataFetcher:
                     'Mileage': mileage_as_int,
                     'ServiceCopyCar': car.get('ServiceCopyCar', ''),
                     'OfficeCityState': car.get('OfficeCityState', ''),
+                    'URL': f'{self.car_profile_base_url}{id}',
                 }
+
+                diagnosis_dict = self.fetch_detailed_data(id, self.diagnosis_base_url)
+                inspection_dict = self.fetch_detailed_data(id, self.inspection_base_url)
+                
+                diagnosis_dict = self.parse_diagnosis_data(diagnosis_dict)
+                accident_dict, inspection_dict = self.parse_inspection_data(inspection_dict)
+                car_dict.update(accident_dict)
+                car_dict['diagnosis'] = diagnosis_dict
+                car_dict['inspection'] = inspection_dict
+                all_car_data[id] = car_dict
+                
                 if self.is_download_photos:
                     photo_urls = self.prepare_photo_urls(car)
                     self.download_photos(id, photo_urls, self.save_dir)
