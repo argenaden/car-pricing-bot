@@ -18,10 +18,22 @@ class CarDataFetcher:
 
         # TODO: move these to config.py
         self.base_url = 'https://api.encar.com/search/car/list/general'
-        self.inspection_base_url = 'https://api.encar.com/v1/readside/inspection/vehicle/'
-        self.diagnosis_base_url = 'https://api.encar.com/v1/readside/diagnosis/vehicle/'
         self.photo_base_url = 'https://ci.encar.com'
-        self.car_profile_base_url = 'https://fem.encar.com/cars/detail/'
+    
+    def get_profile_url(self, car_id):
+        return f"https://fem.encar.com/cars/detail/{car_id}"
+    
+    def get_profile_api_url(self, car_id):
+        return f"https://api.encar.com/v1/readside/record/vehicle/{car_id}/open?vehicleNo=377%EC%A1%B07501"
+    
+    def get_diagnosis_api_url(self, car_id):
+        return f"https://api.encar.com/v1/readside/diagnosis/vehicle/{car_id}"
+    
+    def get_inspection_api_url(self, car_id):
+        return f"https://api.encar.com/v1/readside/inspection/vehicle/{car_id}"
+    
+    def get_description_api_url(self, car_id):
+        return f"https://api.encar.com/v1/readside/vehicle/{car_id}?include=CONTENTS "
     
     def fetch_from(self, url, headers = None, cookies = None):
         try:
@@ -161,10 +173,8 @@ class CarDataFetcher:
                     continue
 
                 id = car.get('Id', '')
-
+                profile_url = self.get_profile_url(id)
                 price_krw = int(float(car.get('Price', 0)) * 10000)
-                price_with_currency = f"{price_krw} KRW"
-
                 year_as_int = int(car.get('Year', 0))
                 mileage_as_int = int(car.get('Mileage', 0))
 
@@ -178,13 +188,18 @@ class CarDataFetcher:
                     'FuelType': car.get('FuelType', ''),
                     'Year': year_as_int,
                     'Mileage': mileage_as_int,
-                    'ServiceCopyCar': car.get('ServiceCopyCar', ''),
-                    'OfficeCityState': car.get('OfficeCityState', ''),
-                    'URL': f'{self.car_profile_base_url}{id}',
+                    'URL': profile_url,
                 }
 
-                diagnosis_dict = self.fetch_detailed_data(id, self.diagnosis_base_url)
-                inspection_dict = self.fetch_detailed_data(id, self.inspection_base_url)
+                profile_api = self.get_profile_api_url(id)
+                diagnosis_api_url = self.get_diagnosis_api_url(id)
+                inspection_api_url = self.get_inspection_api_url(id)
+                description_api_url = self.get_description_api_url(id)
+
+                profile_dict = self.fetch_detailed_data(id, profile_api)
+                diagnosis_dict = self.fetch_detailed_data(id, diagnosis_api_url)
+                inspection_dict = self.fetch_detailed_data(id, inspection_api_url)
+                description_dict = self.fetch_detailed_data(id, description_api_url)
                 
                 diagnosis_dict = self.parse_diagnosis_data(diagnosis_dict)
                 accident_dict, inspection_dict = self.parse_inspection_data(inspection_dict)
