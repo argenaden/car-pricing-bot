@@ -63,6 +63,15 @@ class CarDataFetcher:
         if response is not None:
             return response.json()
         return response
+    
+    def parse_profile_data(self, profile_dict):
+        res = {}
+        if not profile_dict:
+            return res
+        keys = ['myAccidentCnt', 'otherAccidentCnt', 'myAccidentCost', 'otherAccidentCost']
+        for key in keys:
+            res[key] = profile_dict.get(key, 0)
+        return res
 
     def parse_diagnosis_data(self, diagnosis_dict):
         res = {}
@@ -96,6 +105,13 @@ class CarDataFetcher:
         res['outters'] = outers
         return res
 
+    def parse_description_data(self, description_dict):
+        res = {}
+        if not description_dict:
+            return res
+        key = 'contents'
+        res[key] = description_dict[key]['text']
+        return res
     
     def download_photos(self, car_id, photo_urls, save_dir):
         dir_path = f"{save_dir}/{car_id}"
@@ -200,10 +216,15 @@ class CarDataFetcher:
                 inspection_dict = self.fetch_detailed_data(id, inspection_api_url)
                 description_dict = self.fetch_detailed_data(id, description_api_url)
                 
+                profile_dict = self.parse_profile_data(profile_dict)
                 diagnosis_dict = self.parse_diagnosis_data(diagnosis_dict)
                 inspection_dict = self.parse_inspection_data(inspection_dict)
+                description_dict = self.parse_description_data(description_dict)
+
+                car_dict['accident'] = profile_dict
                 car_dict['diagnosis'] = diagnosis_dict
                 car_dict['inspection'] = inspection_dict
+                car_dict['description'] = description_dict
                 all_car_data[id] = car_dict
                 
                 if self.is_download_photos:
