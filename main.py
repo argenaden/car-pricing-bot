@@ -1,5 +1,6 @@
 from typing import Dict
 from data.car_data_fetcher import CarDataFetcher
+from data.car_data_processor import CarDataProcessor
 from config.settings import HEADERS, COOKIES
 import argparse
 
@@ -31,6 +32,10 @@ def main():
     )
 
     car_data_fetcher.fetch_and_save_data('data/hyundai.json', 'data/hyundai.md')
+
+    # car_data_processor = CarDataProcessor('data/hyundai.json')
+    # car_data_processor.process_data()
+
 
 if __name__ == "__main__":
     main()
