@@ -12,6 +12,7 @@ from telegram.ext import (
     CallbackQueryHandler,
     filters,
 )
+from telegram.constants import ParseMode
 
 
 # Enable logging
@@ -35,15 +36,6 @@ CAR_DICT = {
     'Chevrolet': ['Spark', 'Malibu', 'Trax', 'Cruze', 'Orlando', 'Trailblazer'],
 }
 
-ENG2KOR_MAP = {'Hyundai': '현대', 'KIA': '기아', 'Genesis': '제네시스', 'Chevrolet': '쉐보레',
-               'Grandeur': '그랜저', 'Avante': '아반떼', 'Sonata': '소나타', 'Santa Fe': '산타페',
-               'Starex': '스타렉스', 'Tucson': '투싼', 'Carnival': '카니발', 'K5': 'K5', 'K7': 'K7',
-               'Sorento': '쏘렌토', 'Ray': '레이', 'Morning': '모닝', 'EQ900': 'EQ900', 'G70': 'G70',
-               'G80': 'G80', 'G90': 'G90', 'GV70': 'GV70', 'GV80': 'GV80', 'GV90': 'GV90',
-               'Spark': '스파크', 'Malibu': '말리부', 'Trax': '트랙스', 'Cruze': '크루즈',
-               'Orlando': '올란도', 'Trailblazer': '트레일블레이저'}
-
-KOR2ENG_MAP = {'디젤': 'Diesel', '가솔린': 'Gasoline', '수동': 'Manual', '자동': 'Automatic'}
 
 # Start the conversation
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
@@ -160,20 +152,24 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
     
     num_answers = 0
     for car_id, car_info in car_database.items():
-        if ENG2KOR_MAP[mnfctr] == car_info['Manufacturer'] and ENG2KOR_MAP[model] in car_info['Model']:
+        if mnfctr == car_info['Manufacturer'] and model in car_info['Model']:
             year = int(str(car_info['Year'])[:4])
             if start_year <= year <= end_year:
                 num_answers += 1
 
-                answer_msg = f"Вариант №{num_answers}\n"
-                answer_msg += f"Марка: {mnfctr}\n"
-                answer_msg += f"Модель: {model}\n"
-                answer_msg += f"Год выпуска: {year}\n"
-                answer_msg += f"Пробег: {car_info['Mileage']} км\n"
-                answer_msg += f"Топливо: {KOR2ENG_MAP[car_info['FuelType']]}\n"
-                answer_msg += f"Цена: {car_info['Price']}\n"
-                answer_msg += f"Ссылка: {car_info['URL']}\n"
-                await update.message.reply_text(answer_msg)
+                answer_msg = f"__*Вариант №{num_answers}\n*__"
+                answer_msg += f"*Марка:* {mnfctr}\n"
+                answer_msg += f"*Модель:* {model}\n"
+                answer_msg += f"*Год выпуска:* {year}\n"
+                answer_msg += f"*Пробег:* {car_info['Mileage']} км\n"
+                answer_msg += f"*Топливо:* {car_info['FuelType']}\n"
+                answer_msg += f"*Цена:* {car_info['Price']} ₩\n"
+                answer_msg += f"*Количесто аварий:* {car_info['myAccidentCnt']}\n"
+                answer_msg += f"*Страховая история\(ущерб нанесённый автомобилю\):* {car_info['myAccidentCost']} ₩\n"
+                answer_msg += f"*Страховая история\(ущерб нанесённый другим автомобилям\):* {car_info['otherAccidentCost']} ₩\n"
+                answer_msg += f"*Диагностика:* {car_info['diagnosis']}\n"
+                answer_msg += f"[Cсылка на автомобиль]({car_info['URL']})\n"
+                await update.message.reply_text(answer_msg, parse_mode=ParseMode.MARKDOWN_V2)
                 if num_answers == 5:
                     break
     
