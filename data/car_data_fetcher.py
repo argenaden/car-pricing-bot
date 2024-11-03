@@ -64,55 +64,6 @@ class CarDataFetcher:
             return response.json()
         return response
     
-    def parse_profile_data(self, profile_dict):
-        res = {}
-        if not profile_dict:
-            return res
-        keys = ['myAccidentCnt', 'otherAccidentCnt', 'myAccidentCost', 'otherAccidentCost']
-        for key in keys:
-            res[key] = profile_dict.get(key, 0)
-        return res
-
-    def parse_diagnosis_data(self, diagnosis_dict):
-        res = {}
-        if not diagnosis_dict:
-            return res
-        for item in diagnosis_dict['items']:
-            if item['name'] in ['CHECKER_COMMENT', 'OUTER_PANEL_COMMENT']:
-                res[item['name']] = item['result']
-            else:
-                res[item['name']] = item['resultCode']
-        return res
-    
-    def parse_inspection_data(self, inspection_dict):
-        res = {'inners': {}, 'outters': {}}
-        if not inspection_dict:
-            return res
-        inners = {}
-        for item in inspection_dict['inners']:
-            info = {}
-            for subitem in item['children']:
-                try:
-                    status = subitem['statusType']['title']
-                except:
-                    status = None
-                info[subitem['type']['title']] = status
-            inners[item['type']['title']] = info
-        outers = {}
-        for item in inspection_dict['outers']:
-            outers[item['type']['title']] = item['statusTypes'][0]['title']
-        res['inners'] = inners
-        res['outters'] = outers
-        return res
-
-    def parse_description_data(self, description_dict):
-        res = {}
-        if not description_dict:
-            return res
-        key = 'contents'
-        res[key] = description_dict[key]['text']
-        return res
-    
     def download_photos(self, car_id, photo_urls, save_dir):
         dir_path = f"{save_dir}/{car_id}"
         os.makedirs(dir_path, exist_ok=True)
@@ -190,21 +141,15 @@ class CarDataFetcher:
                 if car.get('SellType', '') == '렌트':
                     continue
 
+                try:
+                    id = car['Id']
+                except KeyError:
+                    print('Car ID not found. Skipping...')
+                    continue
+
                 id = car.get('Id', '')
                 profile_url = self.get_profile_url(id)
-                price_krw = int(float(car.get('Price', 0)) * 10000)
-                year_as_int = int(car.get('Year', 0))
-                mileage_as_int = int(car.get('Mileage', 0))
-                car_dict = {
-                    'Manufacturer': car.get('Manufacturer', ''),
-                    'Price': price_krw,
-                    'Model': car.get('Model', ''),
-                    'Badge': car.get('Badge', ''),
-                    'FuelType': car.get('FuelType', ''),
-                    'Year': year_as_int,
-                    'Mileage': mileage_as_int,
-                    'URL': profile_url,
-                }
+                car['URL'] = profile_url
 
                 profile_api = self.get_profile_api_url(id)
                 diagnosis_api_url = self.get_diagnosis_api_url(id)
@@ -216,16 +161,13 @@ class CarDataFetcher:
                 inspection_dict = self.fetch_detailed_data(id, inspection_api_url)
                 description_dict = self.fetch_detailed_data(id, description_api_url)
                 
-                profile_dict = self.parse_profile_data(profile_dict)
-                diagnosis_dict = self.parse_diagnosis_data(diagnosis_dict)
-                inspection_dict = self.parse_inspection_data(inspection_dict)
-                description_dict = self.parse_description_data(description_dict)
-
-                car_dict['accident'] = profile_dict
-                car_dict['diagnosis'] = diagnosis_dict
-                car_dict['inspection'] = inspection_dict
-                car_dict['description'] = description_dict
-                all_car_data[id] = car_dict
+                all_car_data[id] = {
+                    'main': car,
+                    'profile': profile_dict,
+                    'diagnosis': diagnosis_dict,
+                    'inspection': inspection_dict,
+                    'description': description_dict
+                }
                 
                 if self.is_download_photos:
                     photo_urls = self.prepare_photo_urls(car)
