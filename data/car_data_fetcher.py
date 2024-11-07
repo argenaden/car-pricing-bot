@@ -175,6 +175,6 @@ class CarDataFetcher:
 
         if all_car_data:
             self.save_to_json(all_car_data, output_json_filename)
-            self.create_markdown_table(all_car_data, output_md_filename)
+            # self.create_markdown_table(all_car_data, output_md_filename)
         else:
             print("No data fetched or all data was empty.")
