@@ -150,11 +150,11 @@ class CarDataProcessor:
                 chacker_comment = diagnosis.pop('CHECKER_COMMENT')
                 outer_panel_comment = diagnosis.pop('OUTER_PANEL_COMMENT')
                 replaced_parts = []
-                for key, value in diagnosis.items():
-                    if value == 'NORMAL':
+                for diag_key, diag_value in diagnosis.items():
+                    if diag_value == 'NORMAL':
                         pass
-                    elif value == 'REPLACEMENT':
-                        replaced_parts.append(ENG2RU_MAP[key])
+                    elif diag_value == 'REPLACEMENT':
+                        replaced_parts.append(ENG2RU_MAP[diag_key])
                     else:
                         raise NotImplementedError()
                 if replaced_parts:
