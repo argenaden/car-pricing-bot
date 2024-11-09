@@ -13,19 +13,33 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
-    "FRONT_FENDER_LEFT": {
+    "36629813": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
-        "Price": 32500000,
+        "Price": 12500000,
         "Year": 2018,
-        "FuelType": "Бензин",
-        "Mileage": 34476,
-        "URL": "https://fem.encar.com/cars/detail/37509069",
+        "FuelType": "Дизель",
+        "Mileage": 139855,
+        "URL": "https://fem.encar.com/cars/detail/36629813",
         "myAccidentCnt": 1,
-        "otherAccidentCnt": 2,
-        "myAccidentCost": 3205788,
-        "otherAccidentCost": 3421941,
-        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: капот, правое переднее крыло"
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 956573,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38143002": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 12500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 141508,
+        "URL": "https://fem.encar.com/cars/detail/38143002",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 377286,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "36331247": {
         "Manufacturer": "KIA",
@@ -40,6 +54,48 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "36126514": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 12800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 129088,
+        "URL": "https://fem.encar.com/cars/detail/36126514",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1001853,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правое переднее крыло"
+    },
+    "38339811": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 12800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 124166,
+        "URL": "https://fem.encar.com/cars/detail/38339811",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 3,
+        "myAccidentCost": 2197993,
+        "otherAccidentCost": 1697764,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
+    },
+    "37960094": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 12900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 190152,
+        "URL": "https://fem.encar.com/cars/detail/37960094",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 5,
+        "myAccidentCost": 5362354,
+        "otherAccidentCost": 6721148,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая задняя дверь"
     },
     "38319059": {
         "Manufacturer": "KIA",
@@ -83,6 +139,48 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38233162": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 152595,
+        "URL": "https://fem.encar.com/cars/detail/38233162",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 3889478,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "36422416": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 131684,
+        "URL": "https://fem.encar.com/cars/detail/36422416",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "36478979": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 140316,
+        "URL": "https://fem.encar.com/cars/detail/36478979",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1024628,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая задняя дверь"
+    },
     "37828909": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -111,6 +209,34 @@
         "otherAccidentCost": 135000,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37826909": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13300000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 111618,
+        "URL": "https://fem.encar.com/cars/detail/37826909",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 373903,
+        "otherAccidentCost": 420000,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38213197": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13400000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 175863,
+        "URL": "https://fem.encar.com/cars/detail/38213197",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1207797,
+        "otherAccidentCost": 1875000,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38258583": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -124,6 +250,20 @@
         "myAccidentCost": 647930,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38289601": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13490000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 149779,
+        "URL": "https://fem.encar.com/cars/detail/38289601",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 881433,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38176250": {
         "Manufacturer": "KIA",
@@ -139,6 +279,20 @@
         "otherAccidentCost": 961338,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38101008": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 185082,
+        "URL": "https://fem.encar.com/cars/detail/38101008",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38001363": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -152,6 +306,20 @@
         "myAccidentCost": 520020,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37046349": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 116553,
+        "URL": "https://fem.encar.com/cars/detail/37046349",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 845000,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: капот, правое переднее крыло, левое переднее крыло"
     },
     "38329725": {
         "Manufacturer": "KIA",
@@ -181,6 +349,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38251623": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 98692,
+        "URL": "https://fem.encar.com/cars/detail/38251623",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 736463,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36557703": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -194,6 +376,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "36556928": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 13950000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 123033,
+        "URL": "https://fem.encar.com/cars/detail/36556928",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 512380,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38325444": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 138564,
+        "URL": "https://fem.encar.com/cars/detail/38325444",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 607864,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "37828983": {
         "Manufacturer": "KIA",
@@ -223,6 +433,34 @@
         "otherAccidentCost": 26985068,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37363681": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14300000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 92205,
+        "URL": "https://fem.encar.com/cars/detail/37363681",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38321513": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14490000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 135755,
+        "URL": "https://fem.encar.com/cars/detail/38321513",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1658249,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая задняя дверь"
+    },
     "38339095": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -236,6 +474,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38083833": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 95054,
+        "URL": "https://fem.encar.com/cars/detail/38083833",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 3,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 5614252,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38086492": {
         "Manufacturer": "KIA",
@@ -265,6 +517,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37613993": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 140826,
+        "URL": "https://fem.encar.com/cars/detail/37613993",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 4519070,
+        "otherAccidentCost": 3285310,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правое переднее крыло"
+    },
     "38193960": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -293,6 +559,20 @@
         "otherAccidentCost": 500218,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38301372": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14750000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 110628,
+        "URL": "https://fem.encar.com/cars/detail/38301372",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 541642,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36609866": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -306,6 +586,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38193945": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 122644,
+        "URL": "https://fem.encar.com/cars/detail/38193945",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1590148,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "36676382": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 146909,
+        "URL": "https://fem.encar.com/cars/detail/36676382",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 396351,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38192170": {
         "Manufacturer": "KIA",
@@ -321,6 +629,34 @@
         "otherAccidentCost": 3792311,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37354055": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 74232,
+        "URL": "https://fem.encar.com/cars/detail/37354055",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 6424170,
+        "otherAccidentCost": 6542675,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая задняя дверь, левое переднее крыло"
+    },
+    "38252306": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 14990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 162340,
+        "URL": "https://fem.encar.com/cars/detail/38252306",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1009174,
+        "otherAccidentCost": 1199188,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правое переднее крыло"
+    },
     "38312085": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -335,6 +671,20 @@
         "otherAccidentCost": 4806020,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37521613": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 147234,
+        "URL": "https://fem.encar.com/cars/detail/37521613",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правая задняя дверь"
+    },
     "38271883": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -348,6 +698,34 @@
         "myAccidentCost": 1903113,
         "otherAccidentCost": 1049552,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37100957": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 136481,
+        "URL": "https://fem.encar.com/cars/detail/37100957",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 5632800,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, левая задняя дверь, левое переднее крыло"
+    },
+    "37467078": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 121739,
+        "URL": "https://fem.encar.com/cars/detail/37467078",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2445478,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, крышка багажника"
     },
     "37476036": {
         "Manufacturer": "KIA",
@@ -419,6 +797,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37833347": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15490000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 113995,
+        "URL": "https://fem.encar.com/cars/detail/37833347",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 836602,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36372670": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -446,6 +838,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "36008241": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15600000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 119580,
+        "URL": "https://fem.encar.com/cars/detail/36008241",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "37188836": {
         "Manufacturer": "KIA",
@@ -475,6 +881,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "36357055": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15600000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 100450,
+        "URL": "https://fem.encar.com/cars/detail/36357055",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 3350794,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "37764641": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -488,6 +908,20 @@
         "myAccidentCost": 405233,
         "otherAccidentCost": 475069,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "36137642": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15700000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 89173,
+        "URL": "https://fem.encar.com/cars/detail/36137642",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "36600167": {
         "Manufacturer": "KIA",
@@ -517,6 +951,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "36596139": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15700000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 107225,
+        "URL": "https://fem.encar.com/cars/detail/36596139",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38044640": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15790000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 157186,
+        "URL": "https://fem.encar.com/cars/detail/38044640",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 842689,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38186750": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -544,6 +1006,20 @@
         "myAccidentCost": 29606064,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38326973": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 91505,
+        "URL": "https://fem.encar.com/cars/detail/38326973",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38167760": {
         "Manufacturer": "KIA",
@@ -587,6 +1063,20 @@
         "otherAccidentCost": 496830,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38118106": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 189700,
+        "URL": "https://fem.encar.com/cars/detail/38118106",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
+    },
     "36700533": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -601,6 +1091,48 @@
         "otherAccidentCost": 928253,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37614218": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 77800,
+        "URL": "https://fem.encar.com/cars/detail/37614218",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1780050,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38290313": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 71289,
+        "URL": "https://fem.encar.com/cars/detail/38290313",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 628952,
+        "otherAccidentCost": 505230,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38213623": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15930000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 111682,
+        "URL": "https://fem.encar.com/cars/detail/38213623",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 3,
+        "myAccidentCost": 2499511,
+        "otherAccidentCost": 5413171,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
+    },
     "37667449": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -614,6 +1146,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37652687": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 15990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 82440,
+        "URL": "https://fem.encar.com/cars/detail/37652687",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37811353": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 74007,
+        "URL": "https://fem.encar.com/cars/detail/37811353",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 532469,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38322553": {
         "Manufacturer": "KIA",
@@ -642,6 +1202,20 @@
         "myAccidentCost": 2746833,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38282033": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 154885,
+        "URL": "https://fem.encar.com/cars/detail/38282033",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1635330,
+        "otherAccidentCost": 1010370,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38053877": {
         "Manufacturer": "KIA",
@@ -685,6 +1259,48 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38088427": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16400000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 121415,
+        "URL": "https://fem.encar.com/cars/detail/38088427",
+        "myAccidentCnt": 5,
+        "otherAccidentCnt": 8,
+        "myAccidentCost": 5482237,
+        "otherAccidentCost": 8130235,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "36895095": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16490000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 88771,
+        "URL": "https://fem.encar.com/cars/detail/36895095",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 3,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 1944826,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "36338168": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 89183,
+        "URL": "https://fem.encar.com/cars/detail/36338168",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38323914": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -698,6 +1314,20 @@
         "myAccidentCost": 352998,
         "otherAccidentCost": 5470350,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37812322": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 153591,
+        "URL": "https://fem.encar.com/cars/detail/37812322",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2308983,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38121158": {
         "Manufacturer": "KIA",
@@ -755,6 +1385,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38273544": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16550000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 81591,
+        "URL": "https://fem.encar.com/cars/detail/38273544",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2349898,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38292851": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -768,6 +1412,20 @@
         "myAccidentCost": 731589,
         "otherAccidentCost": 736681,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37655841": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 142372,
+        "URL": "https://fem.encar.com/cars/detail/37655841",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2382836,
+        "otherAccidentCost": 549417,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, левая задняя дверь"
     },
     "37811058": {
         "Manufacturer": "KIA",
@@ -797,6 +1455,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38259696": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 109133,
+        "URL": "https://fem.encar.com/cars/detail/38259696",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 639849,
+        "otherAccidentCost": 841950,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38300192": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 108899,
+        "URL": "https://fem.encar.com/cars/detail/38300192",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правая задняя дверь"
+    },
     "38314979": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -810,6 +1496,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37628341": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 16990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 149654,
+        "URL": "https://fem.encar.com/cars/detail/37628341",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 880049,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38333860": {
         "Manufacturer": "KIA",
@@ -838,6 +1538,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37973701": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 142162,
+        "URL": "https://fem.encar.com/cars/detail/37973701",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 3574248,
+        "otherAccidentCost": 1971041,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: крышка багажника, правая задняя дверь"
     },
     "38100045": {
         "Manufacturer": "KIA",
@@ -881,6 +1595,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37175231": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 64112,
+        "URL": "https://fem.encar.com/cars/detail/37175231",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2140783,
+        "otherAccidentCost": 56241,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, левое переднее крыло"
+    },
+    "38312481": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 92290,
+        "URL": "https://fem.encar.com/cars/detail/38312481",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 702754,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правое переднее крыло"
+    },
     "37177296": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -894,6 +1636,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38042954": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 64048,
+        "URL": "https://fem.encar.com/cars/detail/38042954",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 5144545,
+        "otherAccidentCost": 852644,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: капот, правое переднее крыло, левое переднее крыло"
     },
     "38058862": {
         "Manufacturer": "KIA",
@@ -936,6 +1692,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 2131246,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38269239": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17600000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 115357,
+        "URL": "https://fem.encar.com/cars/detail/38269239",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "36445255": {
         "Manufacturer": "KIA",
@@ -1035,6 +1805,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38167945": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 103014,
+        "URL": "https://fem.encar.com/cars/detail/38167945",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 888990,
+        "otherAccidentCost": 2623391,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38131430": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1048,6 +1832,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38129967": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 112734,
+        "URL": "https://fem.encar.com/cars/detail/38129967",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "37595167": {
         "Manufacturer": "KIA",
@@ -1077,6 +1875,76 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38151467": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 91113,
+        "URL": "https://fem.encar.com/cars/detail/38151467",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2201496,
+        "otherAccidentCost": 1653475,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, левое переднее крыло"
+    },
+    "37590232": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 92559,
+        "URL": "https://fem.encar.com/cars/detail/37590232",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правая задняя дверь, правая передняя дверь"
+    },
+    "38322500": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 17990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 135755,
+        "URL": "https://fem.encar.com/cars/detail/38322500",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 3433489,
+        "otherAccidentCost": 1548285,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37751894": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 85791,
+        "URL": "https://fem.encar.com/cars/detail/37751894",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: крышка багажника"
+    },
+    "38344224": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 152404,
+        "URL": "https://fem.encar.com/cars/detail/38344224",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38173120": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1104,6 +1972,20 @@
         "myAccidentCost": 3734080,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38351968": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18390000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 23058,
+        "URL": "https://fem.encar.com/cars/detail/38351968",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1776528,
+        "otherAccidentCost": 763379,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правая задняя дверь"
     },
     "36656525": {
         "Manufacturer": "KIA",
@@ -1133,6 +2015,90 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37453310": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 155546,
+        "URL": "https://fem.encar.com/cars/detail/37453310",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "36080192": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 71164,
+        "URL": "https://fem.encar.com/cars/detail/36080192",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 526457,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правое переднее крыло"
+    },
+    "37638126": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 96292,
+        "URL": "https://fem.encar.com/cars/detail/37638126",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 2019526,
+        "otherAccidentCost": 3355968,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38225336": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 116732,
+        "URL": "https://fem.encar.com/cars/detail/38225336",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 402457,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37950767": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18700000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 90787,
+        "URL": "https://fem.encar.com/cars/detail/37950767",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 712948,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38312314": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 113135,
+        "URL": "https://fem.encar.com/cars/detail/38312314",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2316517,
+        "otherAccidentCost": 529290,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, левое переднее крыло"
+    },
     "37826000": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1147,6 +2113,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38086410": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 83427,
+        "URL": "https://fem.encar.com/cars/detail/38086410",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38006918": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1160,6 +2140,76 @@
         "myAccidentCost": 1173820,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37583467": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 76811,
+        "URL": "https://fem.encar.com/cars/detail/37583467",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 4,
+        "myAccidentCost": 3629093,
+        "otherAccidentCost": 10379680,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38342036": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 18990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 194384,
+        "URL": "https://fem.encar.com/cars/detail/38342036",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1365649,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38301104": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 143456,
+        "URL": "https://fem.encar.com/cars/detail/38301104",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38329700": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19300000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 86650,
+        "URL": "https://fem.encar.com/cars/detail/38329700",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 510687,
+        "otherAccidentCost": 689190,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38305318": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 42773,
+        "URL": "https://fem.encar.com/cars/detail/38305318",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 419738,
+        "otherAccidentCost": 1806031,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38167651": {
         "Manufacturer": "KIA",
@@ -1188,6 +2238,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38238665": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 117096,
+        "URL": "https://fem.encar.com/cars/detail/38238665",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 1458740,
+        "otherAccidentCost": 2133756,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правое переднее крыло"
+    },
+    "38247803": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 109623,
+        "URL": "https://fem.encar.com/cars/detail/38247803",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1662994,
+        "otherAccidentCost": 1265213,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "37796224": {
         "Manufacturer": "KIA",
@@ -1231,6 +2309,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37794000": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 92467,
+        "URL": "https://fem.encar.com/cars/detail/37794000",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38198182": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 134179,
+        "URL": "https://fem.encar.com/cars/detail/38198182",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2963640,
+        "otherAccidentCost": 1019410,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
+    },
     "38254115": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1244,6 +2350,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38335900": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 127619,
+        "URL": "https://fem.encar.com/cars/detail/38335900",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 6150904,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: крышка багажника"
+    },
+    "38341480": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 140342,
+        "URL": "https://fem.encar.com/cars/detail/38341480",
+        "myAccidentCnt": 6,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 2959388,
+        "otherAccidentCost": 7657315,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: капот"
     },
     "37217568": {
         "Manufacturer": "KIA",
@@ -1301,6 +2435,34 @@
         "otherAccidentCost": 2092944,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38326183": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 105117,
+        "URL": "https://fem.encar.com/cars/detail/38326183",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 419978,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38304326": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 88723,
+        "URL": "https://fem.encar.com/cars/detail/38304326",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 283876,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38305606": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1343,6 +2505,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38088839": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 19990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 71433,
+        "URL": "https://fem.encar.com/cars/detail/38088839",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 598981,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
+    },
     "38353182": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1357,6 +2533,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38339740": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20100000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 31432,
+        "URL": "https://fem.encar.com/cars/detail/38339740",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 998532,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38237836": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 115003,
+        "URL": "https://fem.encar.com/cars/detail/38237836",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 3810986,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38168175": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1370,6 +2574,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38289957": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20300000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 105591,
+        "URL": "https://fem.encar.com/cars/detail/38289957",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "33327424": {
         "Manufacturer": "KIA",
@@ -1399,6 +2617,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38139622": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 47218,
+        "URL": "https://fem.encar.com/cars/detail/38139622",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36839906": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1426,6 +2658,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38259896": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 77263,
+        "URL": "https://fem.encar.com/cars/detail/38259896",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 406280,
+        "otherAccidentCost": 2032698,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37678352": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 158685,
+        "URL": "https://fem.encar.com/cars/detail/37678352",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 4,
+        "myAccidentCost": 4364337,
+        "otherAccidentCost": 7317818,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правое переднее крыло"
     },
     "38260853": {
         "Manufacturer": "KIA",
@@ -1455,6 +2715,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "36831612": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 50298,
+        "URL": "https://fem.encar.com/cars/detail/36831612",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38152645": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 120513,
+        "URL": "https://fem.encar.com/cars/detail/38152645",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38162143": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1468,6 +2756,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38218692": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20600000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 103424,
+        "URL": "https://fem.encar.com/cars/detail/38218692",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38264682": {
         "Manufacturer": "KIA",
@@ -1497,6 +2799,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38232588": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 111951,
+        "URL": "https://fem.encar.com/cars/detail/38232588",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1940573,
+        "otherAccidentCost": 450000,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38350960": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 122562,
+        "URL": "https://fem.encar.com/cars/detail/38350960",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1754798,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38351900": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1510,6 +2840,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38122261": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 20990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 108144,
+        "URL": "https://fem.encar.com/cars/detail/38122261",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 1679327,
+        "otherAccidentCost": 19068908,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "37947212": {
         "Manufacturer": "KIA",
@@ -1525,6 +2869,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "36115868": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 102844,
+        "URL": "https://fem.encar.com/cars/detail/36115868",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 4,
+        "myAccidentCost": 925440,
+        "otherAccidentCost": 3046348,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36661923": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1538,6 +2896,20 @@
         "myAccidentCost": 12167798,
         "otherAccidentCost": 6596693,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38157978": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21100000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 107550,
+        "URL": "https://fem.encar.com/cars/detail/38157978",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38315853": {
         "Manufacturer": "KIA",
@@ -1553,6 +2925,48 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38305031": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21300000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 98091,
+        "URL": "https://fem.encar.com/cars/detail/38305031",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37795474": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 169523,
+        "URL": "https://fem.encar.com/cars/detail/37795474",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38310364": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 66471,
+        "URL": "https://fem.encar.com/cars/detail/38310364",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 2140120,
+        "otherAccidentCost": 1852104,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38322289": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1567,6 +2981,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38341544": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 78188,
+        "URL": "https://fem.encar.com/cars/detail/38341544",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2886140,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
+    },
+    "37841555": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21990000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 74644,
+        "URL": "https://fem.encar.com/cars/detail/37841555",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "37845187": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1580,6 +3022,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38203429": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 21990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 84568,
+        "URL": "https://fem.encar.com/cars/detail/38203429",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38204806": {
         "Manufacturer": "KIA",
@@ -1665,6 +3121,48 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37460642": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 92016,
+        "URL": "https://fem.encar.com/cars/detail/37460642",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 2374240,
+        "otherAccidentCost": 1942370,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38338887": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 118905,
+        "URL": "https://fem.encar.com/cars/detail/38338887",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 468470,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38147671": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 111898,
+        "URL": "https://fem.encar.com/cars/detail/38147671",
+        "myAccidentCnt": 6,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 4134756,
+        "otherAccidentCost": 1406210,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "37544733": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1706,6 +3204,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38303135": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 82830,
+        "URL": "https://fem.encar.com/cars/detail/38303135",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1429400,
+        "otherAccidentCost": 963695,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37624717": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 45782,
+        "URL": "https://fem.encar.com/cars/detail/37624717",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: крышка багажника"
     },
     "35655851": {
         "Manufacturer": "KIA",
@@ -1749,6 +3275,34 @@
         "otherAccidentCost": 1247120,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38343796": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22550000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 83763,
+        "URL": "https://fem.encar.com/cars/detail/38343796",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2338461,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: капот, левое переднее крыло"
+    },
+    "38337825": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22790000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 90370,
+        "URL": "https://fem.encar.com/cars/detail/38337825",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1179362,
+        "otherAccidentCost": 100000,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38323704": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1762,6 +3316,20 @@
         "myAccidentCost": 1179362,
         "otherAccidentCost": 100000,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38291214": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 97537,
+        "URL": "https://fem.encar.com/cars/detail/38291214",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 3136607,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38274379": {
         "Manufacturer": "KIA",
@@ -1777,6 +3345,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38140089": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 93241,
+        "URL": "https://fem.encar.com/cars/detail/38140089",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2458521,
+        "otherAccidentCost": 605086,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: правая задняя дверь, правое переднее крыло"
+    },
+    "38261376": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 98063,
+        "URL": "https://fem.encar.com/cars/detail/38261376",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38344487": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1791,6 +3387,20 @@
         "otherAccidentCost": 1527290,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "36555533": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22900000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 41823,
+        "URL": "https://fem.encar.com/cars/detail/36555533",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 2053221,
+        "otherAccidentCost": 1736273,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36567774": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1804,6 +3414,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37678781": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 22990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 98087,
+        "URL": "https://fem.encar.com/cars/detail/37678781",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 434000,
+        "otherAccidentCost": 1107200,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38155080": {
         "Manufacturer": "KIA",
@@ -1833,6 +3457,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38352043": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23000000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 124493,
+        "URL": "https://fem.encar.com/cars/detail/38352043",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1339275,
+        "otherAccidentCost": 1112725,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь"
+    },
     "38353228": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1860,6 +3498,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38339512": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23100000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 75075,
+        "URL": "https://fem.encar.com/cars/detail/38339512",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38299096": {
         "Manufacturer": "KIA",
@@ -1889,6 +3541,48 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38223212": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 73089,
+        "URL": "https://fem.encar.com/cars/detail/38223212",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1348270,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38188766": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23400000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 83872,
+        "URL": "https://fem.encar.com/cars/detail/38188766",
+        "myAccidentCnt": 4,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 11300700,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, левая задняя дверь, левое переднее крыло"
+    },
+    "38228239": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23400000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 58131,
+        "URL": "https://fem.encar.com/cars/detail/38228239",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2132178,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36124213": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1917,6 +3611,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38167014": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 65545,
+        "URL": "https://fem.encar.com/cars/detail/38167014",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1714079,
+        "otherAccidentCost": 590729,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая задняя дверь"
+    },
     "38025179": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1931,6 +3639,20 @@
         "otherAccidentCost": 3738600,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "36387875": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 66452,
+        "URL": "https://fem.encar.com/cars/detail/36387875",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1273048,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38276822": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -1944,6 +3666,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38258352": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23600000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 65082,
+        "URL": "https://fem.encar.com/cars/detail/38258352",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 680145,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "37796708": {
         "Manufacturer": "KIA",
@@ -2029,6 +3765,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38315757": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 23990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 78676,
+        "URL": "https://fem.encar.com/cars/detail/38315757",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1122250,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая задняя дверь, правое переднее крыло"
+    },
     "38095086": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2043,6 +3793,20 @@
         "otherAccidentCost": 8012000,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "34830948": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 38417,
+        "URL": "https://fem.encar.com/cars/detail/34830948",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2154290,
+        "otherAccidentCost": 535500,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "36877623": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2056,6 +3820,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37990781": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24000000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 66805,
+        "URL": "https://fem.encar.com/cars/detail/37990781",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1430800,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38137091": {
         "Manufacturer": "KIA",
@@ -2085,6 +3863,20 @@
         "otherAccidentCost": 2446850,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38165170": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24100000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 72784,
+        "URL": "https://fem.encar.com/cars/detail/38165170",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38327694": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2113,6 +3905,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38259925": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24300000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 62898,
+        "URL": "https://fem.encar.com/cars/detail/38259925",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38281460": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24300000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 89086,
+        "URL": "https://fem.encar.com/cars/detail/38281460",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1123760,
+        "otherAccidentCost": 650940,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38271533": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2126,6 +3946,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38116535": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24400000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 74437,
+        "URL": "https://fem.encar.com/cars/detail/38116535",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1310502,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38188482": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24490000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 109314,
+        "URL": "https://fem.encar.com/cars/detail/38188482",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 661771,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38192152": {
         "Manufacturer": "KIA",
@@ -2141,6 +3989,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38221860": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 109628,
+        "URL": "https://fem.encar.com/cars/detail/38221860",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1622380,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38107967": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 84633,
+        "URL": "https://fem.encar.com/cars/detail/38107967",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38153926": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2154,6 +4030,34 @@
         "myAccidentCost": 5195129,
         "otherAccidentCost": 945538,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38253184": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 64274,
+        "URL": "https://fem.encar.com/cars/detail/38253184",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 645760,
+        "otherAccidentCost": 1186600,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38329104": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 81400,
+        "URL": "https://fem.encar.com/cars/detail/38329104",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2702488,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38115486": {
         "Manufacturer": "KIA",
@@ -2183,6 +4087,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38293636": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24600000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 71743,
+        "URL": "https://fem.encar.com/cars/detail/38293636",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 3904929,
+        "otherAccidentCost": 1200000,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38309433": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24700000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 55334,
+        "URL": "https://fem.encar.com/cars/detail/38309433",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38326505": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2210,6 +4142,48 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38294377": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 91871,
+        "URL": "https://fem.encar.com/cars/detail/38294377",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 554412,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38263938": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 24990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 39812,
+        "URL": "https://fem.encar.com/cars/detail/38263938",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 348734,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38049298": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25000000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 43054,
+        "URL": "https://fem.encar.com/cars/detail/38049298",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2179113,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38235561": {
         "Manufacturer": "KIA",
@@ -2239,6 +4213,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38341973": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25490000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 73128,
+        "URL": "https://fem.encar.com/cars/detail/38341973",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38353374": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2253,6 +4241,48 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "37863720": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 100483,
+        "URL": "https://fem.encar.com/cars/detail/37863720",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1506898,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38344872": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 37432,
+        "URL": "https://fem.encar.com/cars/detail/38344872",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 254768,
+        "otherAccidentCost": 752824,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38334247": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 53701,
+        "URL": "https://fem.encar.com/cars/detail/38334247",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38158977": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2266,6 +4296,48 @@
         "myAccidentCost": 4424326,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "36355338": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25700000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 101268,
+        "URL": "https://fem.encar.com/cars/detail/36355338",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь"
+    },
+    "36916311": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25700000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 81308,
+        "URL": "https://fem.encar.com/cars/detail/36916311",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1386930,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37717906": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25800000,
+        "Year": 2018,
+        "FuelType": "Бензин и газ",
+        "Mileage": 119975,
+        "URL": "https://fem.encar.com/cars/detail/37717906",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "37724196": {
         "Manufacturer": "KIA",
@@ -2295,6 +4367,48 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38150752": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 69760,
+        "URL": "https://fem.encar.com/cars/detail/38150752",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1524445,
+        "otherAccidentCost": 3211060,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38299650": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 92964,
+        "URL": "https://fem.encar.com/cars/detail/38299650",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38019215": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 112846,
+        "URL": "https://fem.encar.com/cars/detail/38019215",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 2363264,
+        "otherAccidentCost": 2003510,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38027634": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2308,6 +4422,62 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "36143721": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 25900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 46825,
+        "URL": "https://fem.encar.com/cars/detail/36143721",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1696600,
+        "otherAccidentCost": 832190,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38010443": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26400000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 66874,
+        "URL": "https://fem.encar.com/cars/detail/38010443",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 3132068,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38169757": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 96827,
+        "URL": "https://fem.encar.com/cars/detail/38169757",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 761136,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "36717752": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 79113,
+        "URL": "https://fem.encar.com/cars/detail/36717752",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: крышка багажника, левое переднее крыло"
     },
     "36725502": {
         "Manufacturer": "KIA",
@@ -2323,6 +4493,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38017949": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 78381,
+        "URL": "https://fem.encar.com/cars/detail/38017949",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38024355": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2336,6 +4520,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "36173983": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26700000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 32743,
+        "URL": "https://fem.encar.com/cars/detail/36173983",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "36175750": {
         "Manufacturer": "KIA",
@@ -2379,6 +4577,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38314360": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 70039,
+        "URL": "https://fem.encar.com/cars/detail/38314360",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1412295,
+        "otherAccidentCost": 368938,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38271521": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2421,6 +4633,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38291018": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 65858,
+        "URL": "https://fem.encar.com/cars/detail/38291018",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 321640,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38325321": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 26990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 75489,
+        "URL": "https://fem.encar.com/cars/detail/38325321",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38195096": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2435,6 +4675,20 @@
         "otherAccidentCost": 1485120,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38185869": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 27300000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 48057,
+        "URL": "https://fem.encar.com/cars/detail/38185869",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 2220017,
+        "otherAccidentCost": 625488,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "33631378": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2448,6 +4702,20 @@
         "myAccidentCost": 2585768,
         "otherAccidentCost": 2193603,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38263110": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 27500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 85146,
+        "URL": "https://fem.encar.com/cars/detail/38263110",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 842259,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38273816": {
         "Manufacturer": "KIA",
@@ -2491,6 +4759,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38145156": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 27800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 74307,
+        "URL": "https://fem.encar.com/cars/detail/38145156",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 2263660,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: крышка багажника"
+    },
     "38326450": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2504,6 +4786,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38323755": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 27800000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 10605,
+        "URL": "https://fem.encar.com/cars/detail/38323755",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38325173": {
         "Manufacturer": "KIA",
@@ -2519,6 +4815,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38324075": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 27900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 87254,
+        "URL": "https://fem.encar.com/cars/detail/38324075",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 4,
+        "myAccidentCost": 9447581,
+        "otherAccidentCost": 3337434,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левая передняя дверь, капот, правое переднее крыло, левое переднее крыло"
+    },
+    "37988162": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 27950000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 94635,
+        "URL": "https://fem.encar.com/cars/detail/37988162",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 142830,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "37544323": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2532,6 +4856,20 @@
         "myAccidentCost": 4430330,
         "otherAccidentCost": 3812000,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38299678": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 27990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 59288,
+        "URL": "https://fem.encar.com/cars/detail/38299678",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38311942": {
         "Manufacturer": "KIA",
@@ -2561,6 +4899,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38343167": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 28000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 54542,
+        "URL": "https://fem.encar.com/cars/detail/38343167",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38345205": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2588,6 +4940,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38282608": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 28200000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 51592,
+        "URL": "https://fem.encar.com/cars/detail/38282608",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38101408": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 28400000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 126087,
+        "URL": "https://fem.encar.com/cars/detail/38101408",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 625320,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38196984": {
         "Manufacturer": "KIA",
@@ -2617,6 +4997,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38312300": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 28500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 86073,
+        "URL": "https://fem.encar.com/cars/detail/38312300",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1626420,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "37864934": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2644,6 +5038,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 583580,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38311064": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 28600000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 27503,
+        "URL": "https://fem.encar.com/cars/detail/38311064",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38299478": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 28800000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 88429,
+        "URL": "https://fem.encar.com/cars/detail/38299478",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 743000,
+        "otherAccidentCost": 450619,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38335564": {
         "Manufacturer": "KIA",
@@ -2673,6 +5095,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38349479": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 28900000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 85262,
+        "URL": "https://fem.encar.com/cars/detail/38349479",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 406700,
+        "otherAccidentCost": 1174569,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38352394": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2686,6 +5122,48 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37444951": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 29000000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 63286,
+        "URL": "https://fem.encar.com/cars/detail/37444951",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 124600,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37550492": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 29500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 61935,
+        "URL": "https://fem.encar.com/cars/detail/37550492",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38269699": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 29800000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 76257,
+        "URL": "https://fem.encar.com/cars/detail/38269699",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
     },
     "38257255": {
         "Manufacturer": "KIA",
@@ -2715,6 +5193,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38261296": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 29900000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 71964,
+        "URL": "https://fem.encar.com/cars/detail/38261296",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1028767,
+        "otherAccidentCost": 681707,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37657322": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 29990000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 85637,
+        "URL": "https://fem.encar.com/cars/detail/37657322",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "37662562": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2728,6 +5234,34 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37769521": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 30500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 64202,
+        "URL": "https://fem.encar.com/cars/detail/37769521",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38172696": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 30500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 59964,
+        "URL": "https://fem.encar.com/cars/detail/38172696",
+        "myAccidentCnt": 3,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 3650137,
+        "otherAccidentCost": 1559700,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: левое переднее крыло"
     },
     "38175812": {
         "Manufacturer": "KIA",
@@ -2743,6 +5277,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38290574": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 30500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 124911,
+        "URL": "https://fem.encar.com/cars/detail/38290574",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "37402857": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 30800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 34219,
+        "URL": "https://fem.encar.com/cars/detail/37402857",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1412130,
+        "otherAccidentCost": 350000,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "37404642": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2756,6 +5318,48 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38099564": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 31290000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 73819,
+        "URL": "https://fem.encar.com/cars/detail/38099564",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38308520": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 31500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 119865,
+        "URL": "https://fem.encar.com/cars/detail/38308520",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 915691,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38331850": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 31500000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 71882,
+        "URL": "https://fem.encar.com/cars/detail/38331850",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38327552": {
         "Manufacturer": "KIA",
@@ -2771,6 +5375,20 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38132175": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 31590000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 54097,
+        "URL": "https://fem.encar.com/cars/detail/38132175",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 1125143,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38142898": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2785,6 +5403,34 @@
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
     },
+    "38263895": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 31800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 23650,
+        "URL": "https://fem.encar.com/cars/detail/38263895",
+        "myAccidentCnt": 0,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
+    "38203638": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 31800000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 51056,
+        "URL": "https://fem.encar.com/cars/detail/38203638",
+        "myAccidentCnt": 2,
+        "otherAccidentCnt": 1,
+        "myAccidentCost": 1563610,
+        "otherAccidentCost": 1408800,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
+    },
     "38276382": {
         "Manufacturer": "KIA",
         "Model": "Carnival",
@@ -2798,6 +5444,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "38327156": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 31800000,
+        "Year": 2018,
+        "FuelType": "Дизель",
+        "Mileage": 49258,
+        "URL": "https://fem.encar.com/cars/detail/38327156",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 0,
+        "myAccidentCost": 0,
+        "otherAccidentCost": 0,
+        "diagnosis": "Официальная диагностика от Encar показала что автомобиль в отличном состоянии, без замененных деталей"
     },
     "38331893": {
         "Manufacturer": "KIA",
@@ -2840,6 +5500,20 @@
         "myAccidentCost": 0,
         "otherAccidentCost": 0,
         "diagnosis": "Информация об официальной диагностике от Encar отсутствует"
+    },
+    "37509069": {
+        "Manufacturer": "KIA",
+        "Model": "Carnival",
+        "Price": 32500000,
+        "Year": 2018,
+        "FuelType": "Бензин",
+        "Mileage": 34476,
+        "URL": "https://fem.encar.com/cars/detail/37509069",
+        "myAccidentCnt": 1,
+        "otherAccidentCnt": 2,
+        "myAccidentCost": 3205788,
+        "otherAccidentCost": 3421941,
+        "diagnosis": "Официальная диагностика от Encar показала что были заменены следующие детали: капот, правое переднее крыло"
     },
     "37760659": {
         "Manufacturer": "KIA",
