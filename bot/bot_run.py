@@ -156,19 +156,8 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
             year = int(str(car_info['Year'])[:4])
             if start_year <= year <= end_year:
                 num_answers += 1
-
-                answer_msg = f"__*Вариант №{num_answers}\n*__"
-                answer_msg += f"*Марка:* {mnfctr}\n"
-                answer_msg += f"*Модель:* {model}\n"
-                answer_msg += f"*Год выпуска:* {year}\n"
-                answer_msg += f"*Пробег:* {car_info['Mileage']} км\n"
-                answer_msg += f"*Топливо:* {car_info['FuelType']}\n"
-                answer_msg += f"*Цена:* {car_info['Price']} ₩\n"
-                answer_msg += f"*Количесто аварий:* {car_info['myAccidentCnt']}\n"
-                answer_msg += f"*Страховая история\(ущерб нанесённый автомобилю\):* {car_info['myAccidentCost']} ₩\n"
-                answer_msg += f"*Страховая история\(ущерб нанесённый другим автомобилям\):* {car_info['otherAccidentCost']} ₩\n"
-                answer_msg += f"*Диагностика:* {car_info['diagnosis']}\n"
-                answer_msg += f"[Cсылка на автомобиль]({car_info['URL']})\n"
+                answer_msg = f'__*Вариант №{num_answers}\n*__'
+                answer_msg += car_info['short_answer_msg']
                 await update.message.reply_text(answer_msg, parse_mode=ParseMode.MARKDOWN_V2)
                 if num_answers == 5:
                     break
