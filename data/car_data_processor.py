@@ -128,6 +128,26 @@ class CarDataProcessor:
         res[key] = description_dict[key]['text']
         return res
     
+    def construct_asnwer_msg(self, car_info):
+        answer_msg = f"*Марка:* {car_info['Manufacturer']}\n"
+        answer_msg += f"*Модель:* {car_info['Model']}\n"
+        answer_msg += f"*Год выпуска:* {car_info['Year']}\n"
+        answer_msg += f"*Пробег:* {car_info['Mileage']} км\n"
+        answer_msg += f"*Топливо:* {car_info['FuelType']}\n"
+        answer_msg += f"*Цена:* {car_info['Price']} ₩\n"
+        if car_info['myAccidentCnt'] == 0 and not car_info['replacement_parts']:
+            short_answer_msg = answer_msg + f"*Состояние:* Отличное\n"
+        else:
+            short_answer_msg = answer_msg + f"*Состояние:* Присутствуют повреждения\n"
+        answer_msg += f"*Количесто аварий:* {car_info['myAccidentCnt']}\n"
+        answer_msg += f"*Страховая история\(ущерб нанесённый автомобилю\):* {car_info['myAccidentCost']} ₩\n"
+        answer_msg += f"*Страховая история\(ущерб нанесённый другим автомобилям\):* {car_info['otherAccidentCost']} ₩\n"
+        answer_msg += f"*Диагностика:* {car_info['diagnosis']}\n"
+        answer_msg += f"[Cсылка на автомобиль]({car_info['URL']})\n"
+        short_answer_msg += f"[Cсылка на автомобиль]({car_info['URL']})\n"
+        car_info['short_answer_msg'] = short_answer_msg
+        car_info['full_answer_msg'] = answer_msg
+
     def process_data(self):
         for key, value in self.raw_data.items():
             main_info = value['main']
@@ -146,15 +166,15 @@ class CarDataProcessor:
             main_info.update(accident)
 
             # Merge diagnosis info into main_info
+            replaced_parts = []
             if diagnosis:
                 chacker_comment = diagnosis.pop('CHECKER_COMMENT')
                 outer_panel_comment = diagnosis.pop('OUTER_PANEL_COMMENT')
-                replaced_parts = []
-                for key, value in diagnosis.items():
-                    if value == 'NORMAL':
+                for diag_key, diag_value in diagnosis.items():
+                    if diag_value == 'NORMAL':
                         pass
-                    elif value == 'REPLACEMENT':
-                        replaced_parts.append(ENG2RU_MAP[key])
+                    elif diag_value == 'REPLACEMENT':
+                        replaced_parts.append(ENG2RU_MAP[diag_key])
                     else:
                         raise NotImplementedError()
                 if replaced_parts:
@@ -166,10 +186,12 @@ class CarDataProcessor:
             else:
                 d_text = "Информация об официальной диагностике от Encar отсутствует"
             main_info['diagnosis'] = d_text
+            main_info['replacement_parts'] = replaced_parts
 
             # TODO: Merge inspection info into main_info
             # TODO: Merge description info into main_info
 
+            self.construct_asnwer_msg(main_info)
             self.processed_data[key] = main_info
         
         self.save_data(self.processed_data, self.save_path)

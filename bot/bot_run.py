@@ -26,7 +26,7 @@ YEAR_RANGE_START = 2018
 YEAR_RANGE_END = 2024
 
 # Define conversation states
-MANUFACTURER, MODEL, START_YEAR, END_YEAR, LOCATION, BIO = range(6)
+MANUFACTURER, MODEL, START_YEAR, END_YEAR, RETURN_RESULTS = range(5)
 
 # Dictionary of car manufacturers and models
 CAR_DICT = {
@@ -136,9 +136,6 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
         await update.message.reply_text(f"Пожалуйста, выберите год в диапазоне от {start_year} до {YEAR_RANGE_END}.")
         return END_YEAR
 
-    # Retrieve data_path from the application context
-    data_path = context.bot_data['data_path']
-
     context.user_data['end_year'] = int(end_year)
     mnfctr = context.user_data['manufacturer']
     model = context.user_data['model']
@@ -147,39 +144,82 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
 
     await update.message.reply_text(f"Вы выбрали {mnfctr} {model} с {start_year} по {end_year} года выпуска.")
 
+    context, answer_msg = search_results(context)
+
+    reply_keyboard = [['Смотреть подробнее'], ['Смотреть следующий вариант'], ['Завершить']]
+    await update.message.reply_text(answer_msg, parse_mode=ParseMode.MARKDOWN_V2, 
+                                    reply_markup=ReplyKeyboardMarkup(
+                                        reply_keyboard, one_time_keyboard=True, resize_keyboard=True))
+    
+    return RETURN_RESULTS
+
+# Return the results according to the user's selection
+async def return_results(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
+    user_reply = update.message.text
+    if user_reply == 'Завершить':
+        await update.message.reply_text(
+            "Спасибо за использование нашего бота! Если хотите попробовать ещё раз, нажмите /start.",
+            reply_markup=ReplyKeyboardRemove()
+        )
+        return ConversationHandler.END
+    elif user_reply == 'Смотреть подробнее':
+        full_answer_msg = get_full_answer_msg(context)
+        reply_keyboard = [['Смотреть следующий вариант'], ['Завершить']]
+        print(full_answer_msg)
+        # temporary solution
+        await update.message.reply_text(full_answer_msg, parse_mode=ParseMode.MARKDOWN_V2,
+                                            reply_markup=ReplyKeyboardMarkup(
+                                                reply_keyboard, one_time_keyboard=True, resize_keyboard=True))
+        return RETURN_RESULTS
+    
+    print(context.bot_data['iter_idx'])
+    print(context.bot_data['answer_id'])
+    context, answer_msg = search_results(context)
+
+    reply_keyboard = [['Смотреть подробнее'], ['Смотреть следующий вариант'], ['Завершить']]
+    await update.message.reply_text(answer_msg, parse_mode=ParseMode.MARKDOWN_V2, 
+                                    reply_markup=ReplyKeyboardMarkup(
+                                        reply_keyboard, one_time_keyboard=True, resize_keyboard=True))
+    
+    return RETURN_RESULTS
+
+# Search the results based on the user's selection
+def search_results(context: ContextTypes.DEFAULT_TYPE) -> int:
+    mnfctr = context.user_data['manufacturer']
+    model = context.user_data['model']
+    start_year = context.user_data['start_year']
+    end_year = context.user_data['end_year']
+
+    # Retrieve data_path from the application context
+    data_path = context.bot_data['data_path']
     with open(data_path, 'r') as file:
         car_database = json.load(file)
+    car_database_list = list(car_database.values())
     
-    num_answers = 0
-    for car_id, car_info in car_database.items():
+    answer_id = context.bot_data['answer_id'] + 1
+    curr_iter_idx = context.bot_data['iter_idx'] + 1
+    for i, car_info in enumerate(car_database_list[curr_iter_idx:]):
         if mnfctr == car_info['Manufacturer'] and model in car_info['Model']:
             year = int(str(car_info['Year'])[:4])
             if start_year <= year <= end_year:
-                num_answers += 1
+                answer_msg = f'__*Вариант №{answer_id}\n*__'
+                answer_msg += car_info['short_answer_msg']
+                context.bot_data['answer_id'] = answer_id
+                context.bot_data['iter_idx'] = curr_iter_idx + i
+                return context, answer_msg
 
-                answer_msg = f"__*Вариант №{num_answers}\n*__"
-                answer_msg += f"*Марка:* {mnfctr}\n"
-                answer_msg += f"*Модель:* {model}\n"
-                answer_msg += f"*Год выпуска:* {year}\n"
-                answer_msg += f"*Пробег:* {car_info['Mileage']} км\n"
-                answer_msg += f"*Топливо:* {car_info['FuelType']}\n"
-                answer_msg += f"*Цена:* {car_info['Price']} ₩\n"
-                answer_msg += f"*Количесто аварий:* {car_info['myAccidentCnt']}\n"
-                answer_msg += f"*Страховая история\(ущерб нанесённый автомобилю\):* {car_info['myAccidentCost']} ₩\n"
-                answer_msg += f"*Страховая история\(ущерб нанесённый другим автомобилям\):* {car_info['otherAccidentCost']} ₩\n"
-                answer_msg += f"*Диагностика:* {car_info['diagnosis']}\n"
-                answer_msg += f"[Cсылка на автомобиль]({car_info['URL']})\n"
-                await update.message.reply_text(answer_msg, parse_mode=ParseMode.MARKDOWN_V2)
-                if num_answers == 5:
-                    break
-    
-    if num_answers == 0:
-        await update.message.reply_text("Извините, но я не могу найти автомобиль по вашему запросу.")
+# Get the full answer message
+def get_full_answer_msg(context: ContextTypes.DEFAULT_TYPE) -> str:
+    data_path = context.bot_data['data_path']
+    with open(data_path, 'r') as file:
+        car_database = json.load(file)
+    car_database_list = list(car_database.values())
 
-    await update.message.reply_text(
-        "Спасибо за использование нашего бота! Если хотите попробовать ещё раз, нажмите /start."
-    )
-    return ConversationHandler.END
+    answer_id = context.bot_data['answer_id']
+    curr_iter_idx = context.bot_data['iter_idx']
+    answer_msg = f'__*Вариант №{answer_id}\n*__'
+    answer_msg += car_database_list[curr_iter_idx]['full_answer_msg']
+    return answer_msg
 
 # Cancel the conversation
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
@@ -188,7 +228,8 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     logger.info(f"User {user.first_name} canceled the conversation.")
 
     await update.message.reply_text(
-        "Пока! Надеюсь, мы сможем пообщаться ещё.", reply_markup=ReplyKeyboardRemove()
+        "Спасибо за использование нашего бота! Если хотите попробовать ещё раз, нажмите /start.",
+        reply_markup=ReplyKeyboardRemove()
     )
     return ConversationHandler.END
 
@@ -202,6 +243,8 @@ def main(data_path) -> None:
     if not os.path.isfile(data_path) or not data_path.endswith('.json'):
         raise ValueError("Invalid data path. Please provide a valid JSON file.")
     application.bot_data['data_path'] = data_path
+    application.bot_data['answer_id'] = 0
+    application.bot_data['iter_idx'] = -1
 
     # Add conversation handler with the states
     conv_handler = ConversationHandler(
@@ -211,6 +254,7 @@ def main(data_path) -> None:
             MODEL: [MessageHandler(filters.TEXT, model)],
             START_YEAR: [MessageHandler(filters.TEXT, start_year_selection)],
             END_YEAR: [MessageHandler(filters.TEXT, end_year_selection)],
+            RETURN_RESULTS: [MessageHandler(filters.TEXT, return_results)],
         },
         fallbacks=[CommandHandler("cancel", cancel)],
     )
