@@ -146,7 +146,7 @@ async def end_year_selection(update: Update, context: ContextTypes.DEFAULT_TYPE)
 
     context, answer_msg = search_results(context)
 
-    reply_keyboard = [['Смотреть следующий вариант'], ['Завершить']]
+    reply_keyboard = [['Смотреть подробнее'], ['Смотреть следующий вариант'], ['Завершить']]
     await update.message.reply_text(answer_msg, parse_mode=ParseMode.MARKDOWN_V2, 
                                     reply_markup=ReplyKeyboardMarkup(
                                         reply_keyboard, one_time_keyboard=True, resize_keyboard=True))
@@ -162,12 +162,21 @@ async def return_results(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
             reply_markup=ReplyKeyboardRemove()
         )
         return ConversationHandler.END
+    elif user_reply == 'Смотреть подробнее':
+        full_answer_msg = get_full_answer_msg(context)
+        reply_keyboard = [['Смотреть следующий вариант'], ['Завершить']]
+        print(full_answer_msg)
+        # temporary solution
+        await update.message.reply_text(full_answer_msg, parse_mode=ParseMode.MARKDOWN_V2,
+                                            reply_markup=ReplyKeyboardMarkup(
+                                                reply_keyboard, one_time_keyboard=True, resize_keyboard=True))
+        return RETURN_RESULTS
     
     print(context.bot_data['iter_idx'])
     print(context.bot_data['answer_id'])
     context, answer_msg = search_results(context)
 
-    reply_keyboard = [['Смотреть следующий вариант'], ['Завершить']]
+    reply_keyboard = [['Смотреть подробнее'], ['Смотреть следующий вариант'], ['Завершить']]
     await update.message.reply_text(answer_msg, parse_mode=ParseMode.MARKDOWN_V2, 
                                     reply_markup=ReplyKeyboardMarkup(
                                         reply_keyboard, one_time_keyboard=True, resize_keyboard=True))
@@ -187,18 +196,30 @@ def search_results(context: ContextTypes.DEFAULT_TYPE) -> int:
         car_database = json.load(file)
     car_database_list = list(car_database.values())
     
-    answer_id = context.bot_data['answer_id']
-    curr_iter_idx = context.bot_data['iter_idx']
+    answer_id = context.bot_data['answer_id'] + 1
+    curr_iter_idx = context.bot_data['iter_idx'] + 1
     for i, car_info in enumerate(car_database_list[curr_iter_idx:]):
         if mnfctr == car_info['Manufacturer'] and model in car_info['Model']:
             year = int(str(car_info['Year'])[:4])
             if start_year <= year <= end_year:
                 answer_msg = f'__*Вариант №{answer_id}\n*__'
                 answer_msg += car_info['short_answer_msg']
-                context.bot_data['answer_id'] += 1
-                context.bot_data['iter_idx'] = curr_iter_idx + i + 1
+                context.bot_data['answer_id'] = answer_id
+                context.bot_data['iter_idx'] = curr_iter_idx + i
                 return context, answer_msg
 
+# Get the full answer message
+def get_full_answer_msg(context: ContextTypes.DEFAULT_TYPE) -> str:
+    data_path = context.bot_data['data_path']
+    with open(data_path, 'r') as file:
+        car_database = json.load(file)
+    car_database_list = list(car_database.values())
+
+    answer_id = context.bot_data['answer_id']
+    curr_iter_idx = context.bot_data['iter_idx']
+    answer_msg = f'__*Вариант №{answer_id}\n*__'
+    answer_msg += car_database_list[curr_iter_idx]['full_answer_msg']
+    return answer_msg
 
 # Cancel the conversation
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
@@ -222,8 +243,8 @@ def main(data_path) -> None:
     if not os.path.isfile(data_path) or not data_path.endswith('.json'):
         raise ValueError("Invalid data path. Please provide a valid JSON file.")
     application.bot_data['data_path'] = data_path
-    application.bot_data['answer_id'] = 1
-    application.bot_data['iter_idx'] = 0
+    application.bot_data['answer_id'] = 0
+    application.bot_data['iter_idx'] = -1
 
     # Add conversation handler with the states
     conv_handler = ConversationHandler(
